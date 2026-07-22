@@ -1,0 +1,753 @@
+
+Tenant: Italian Trattoria,,Product Summary Report
+,,Report as of 07/22/2026
+
+"Product name","Item count","Category","Available in Recipe","Available in Inventory","Product unit","Last purchased","Cost","Last purchased vendor","Last purchased location"
+"Disposables, Round Platter CM 31",1,PURCHASE SUMMARY,false,false,each,04/08/2025 00:00:00,5.5,ConEdison,IT - 1014 Lincoln Rd
+"Gen Expenses, Uniforms",2,General expenses,false,false,each,08/15/2025 00:00:00,15.58,MODELINE TEKSTILSAN. IHR.LTD STI,IT - 390 Fifth Ave
+"Produce, Quinoa",1,Food - other,false,true,lb,09/09/2025 00:00:00,3.53,ACE ENDICO,IT - 390 Fifth Ave
+"White Wine, CANTINA COLLI EUGANEI MOSCATO 2023",1,Wine,false,true,each,09/10/2025 00:00:00,9,Dark Star Wine LLC,IT - 1656 Collins Ave
+"White Wine, Cantina Colli Euganei Moscato 2021",1,Wine,false,true,each,09/10/2025 00:00:00,9,Dark Star Imports,IT - 1656 Collins Ave
+"Dry Goods, Sundried Tomatoes in Olive Oil",1,Dry Goods,false,false,liter,09/13/2025 00:00:00,12.67,SOGNO TOSCANO,IT - 530 Seventh Ave
+"Produce, Cello Radish",1,Food - other,true,true,lb,09/13/2025 00:00:00,1.85,ACE ENDICO,IT - 1656 Collins Ave
+"Dry Goods, Moteoola Sugar Free",1,Food - other,false,false,each,09/13/2025 00:00:00,1.12,ACE ENDICO,IT - 1656 Collins Ave
+"Protein, Prosciutto Di Parma",1,Meat/ Protein,false,true,lb,09/15/2025 00:00:00,8.8,VIANDER INC,IT - 390 Fifth Ave
+"Dry Goods, Molecola",1,Food - other,true,false,each,09/20/2025 00:00:00,1.12,ACE ENDICO,IT - 1656 Collins Ave
+"Dry Goods, Tomato Sauce",1,Food - other,true,false,lb,09/20/2025 00:00:00,2.48,ACE ENDICO,IT - 1656 Collins Ave
+"Protein, Rovagnati Prosciutto",2,Food - other,false,true,lb,09/20/2025 00:00:00,7.28,ACE ENDICO,IT - 1656 Collins Ave
+"NA Bev, Iced Lemon Tea",1,Food - other,false,true,each,09/20/2025 00:00:00,0.81,ACE ENDICO,IT - 1656 Collins Ave
+"NA Bev, Lemonade",1,Food - other,false,false,each,09/20/2025 00:00:00,0.93,ACE ENDICO,IT - 1656 Collins Ave
+"Dry Goods, Pistachio Halves",1,Dry Goods,false,false,lb,10/06/2025 00:00:00,4.67,VIANDER INC,IT - 1014 Lincoln Rd
+"Protein, Citterio Hot Spianata Soppressata",1,Meat/ Protein,false,false,lb,11/17/2025 00:00:00,8.7,VIANDER INC,IT - 1656 Collins Ave
+"Baked Goods, Plain Beignet",1,Baked Goods,false,true,each,11/18/2025 00:00:00,1.5,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"NA Bev, Tonic Mixer",1,Liquor,false,false,liter,11/20/2025 00:00:00,26.88,Southern Glazer,IT - 1014 Lincoln Rd
+"Baked Goods, Walnut Muffin",1,Baked Goods,false,true,each,11/26/2025 00:00:00,1.5,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"Produce, Acai Berry Pack",1,Frozen,false,true,each,11/26/2025 00:00:00,1.25,PRO EX INTERNATIONAL,IT - 1014 Lincoln Rd
+"Baked Goods, Dulce De Leche Muffin",1,Baked Goods,false,true,each,11/27/2025 00:00:00,1.5,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"Protein, Yellowfin Tuna Steak",2,Food - other,false,true,lb,11/29/2025 00:00:00,6.62,ACE ENDICO,IT - 390 Fifth Ave
+"Dairy, Half and Half Creamer",1,Food - other,false,true,liter,11/29/2025 00:00:00,51.51,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, Choco Chips",1,Food - other,true,false,lb,11/29/2025 00:00:00,5.73,ACE ENDICO,IT - 390 Fifth Ave
+"Liqueur, Angostura Bitter",1,Liquor,false,false,liter,12/01/2025 00:00:00,116.95,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Dry Goods, Savoia Americano",1,Liquor,false,false,liter,12/01/2025 00:00:00,43.98,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Tequila, Maestro Dobel Diamante Blanco",1,Liquor,false,false,liter,12/01/2025 00:00:00,66.65,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Tequila, Gran Centenario Blanco",1,Liquor,false,false,liter,12/01/2025 00:00:00,29.19,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Liquor, Rum Diplomatico",1,Liquor,false,false,liter,12/01/2025 00:00:00,53.32,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Whiskey, Tincup",1,Liquor,false,false,liter,12/01/2025 00:00:00,47.99,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Liqueur, Curacao",1,Liquor,false,false,each,12/01/2025 00:00:00,11.55,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Whiskey, DELETE NO BRAND NAME Black Label",1,Liquor,false,false,liter,12/01/2025 00:00:00,52.7,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Tequila, Mezcal 400 Conejos",1,Liquor,false,false,liter,12/01/2025 00:00:00,43.99,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Vodka, Crown Russe",1,Liquor,false,false,liter,12/01/2025 00:00:00,5.49,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Vodka, New Amsterdam",1,Liquor,false,false,liter,12/01/2025 00:00:00,17.33,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Whiskey, Jack Daniel's",1,Liquor,false,false,liter,12/01/2025 00:00:00,26.67,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Tequila, Golden Jose Cuervo",1,Liquor,false,false,liter,12/01/2025 00:00:00,70.89,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Liqueur, Montenegro Amaro",1,Liquor,false,false,liter,12/02/2025 00:00:00,47.99,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Wine Red, Tenuta L'impostino Ottava Rima 2021",3,Wine,true,true,each,12/02/2025 00:00:00,20,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Baked Goods, Baci Di Dama",1,Baked Goods,false,true,each,12/02/2025 00:00:00,0.34,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Liqueur, Martini & Rosso Bianco",1,Liquor,false,false,liter,12/02/2025 00:00:00,13,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Red Wine, FEUDI D’ALBE BOVE MONTEPULCIANO D’ABRUZZO 2020",2,Wine,true,true,each,12/02/2025 00:00:00,13,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Liqueur, Sambuca Molinari",1,Liquor,false,false,liter,12/02/2025 00:00:00,46.65,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Baked Goods, Cheese Danish",1,Baked Goods,false,false,each,12/04/2025 00:00:00,1.5,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"Dairy, Cheese Danish Blue Wheel",1,Dairy,false,false,lb,12/04/2025 00:00:00,0.8,Driscoll Foods,IT - 390 Fifth Ave
+"Baked Goods, Croissant Roll",1,Food - other,true,true,each,12/04/2025 00:00:00,1.34,ACE ENDICO,IT - 390 Fifth Ave
+"Dairy, Cherry Greek Yogurt",1,Food - other,false,true,lb,12/04/2025 00:00:00,4.6,ACE ENDICO,IT - 390 Fifth Ave
+"Wine Red, La Vis Cabernet Trentino 2023",2,Wine,false,true,each,12/05/2025 00:00:00,12,Southern Glazer,IT - 1014 Lincoln Rd
+"Dry Goods, Tahini Paste",2,Food - other,true,true,lb,12/06/2025 00:00:00,6.86,ACE ENDICO,IT - 390 Fifth Ave
+"Baked Goods, Schiacciata Toscana",1,Dry Goods,false,true,lb,12/10/2025 00:00:00,6.8,SOGNO TOSCANO,IT - 390 Fifth Ave
+"Baked Goods, Sorriso Pinsa",1,Dry Goods,false,true,each,12/10/2025 00:00:00,3.67,SOGNO TOSCANO,IT - 390 Fifth Ave
+"Produce, Jumbo Red Onion",1,Produce,true,false,lb,12/15/2025 00:00:00,0.75,PRO EX INTERNATIONAL,IT - 1656 Collins Ave
+"Produce, Kiwi Clamshells",1,Produce,false,false,lb,12/15/2025 00:00:00,3.41,PRO EX INTERNATIONAL,IT - 1656 Collins Ave
+"Liqueur, Nikka Single Malt Yoichi",1,Liquor,false,false,liter,12/19/2025 00:00:00,172.8,Southern Glazer,IT - 1656 Collins Ave
+"Baked Goods, Fiasconaro Panettone Cioccolato",1,Baked Goods,false,false,lb,12/19/2025 00:00:00,14.29,VIANDER INC,IT - 1656 Collins Ave
+"Liquor, Gin Hendricks 1L",1,Liquor,false,false,liter,12/23/2025 00:00:00,499,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Gin, Canaima",1,Liquor,false,false,liter,12/23/2025 00:00:00,29.99,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Protein, Hot Calabrese",1,Food - other,false,true,lb,12/27/2025 00:00:00,1.12,ACE ENDICO,IT - 390 Fifth Ave
+"Baked Goods, Multigrain Demi Baguette",1,Baked Goods,false,true,each,12/30/2025 00:00:00,1.05,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"Dry Goods, Cherry Tomato Semi Dried",1,Food - other,false,true,lb,12/30/2025 00:00:00,6.85,ACE ENDICO,IT - 390 Fifth Ave
+"Liqueur, Grappa Vendemmia Nonino",3,Liquor,false,true,each,12/30/2025 00:00:00,39.2,Seventh Ave House Vendor,IT - 530 Seventh Ave
+"Baked Goods, Rustique Baguette",1,Baked Goods,false,true,each,12/30/2025 00:00:00,1.7,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"Rum, Cachaca Pitu",2,Liquor,false,false,liter,12/30/2025 00:00:00,27.95,Seventh Ave House Vendor,IT - 530 Seventh Ave
+"Wine Rose, La Gioisa Prosecco Brut",1,Wine,false,false,each,12/30/2025 00:00:00,0.65,Seventh Ave House Vendor,IT - 530 Seventh Ave
+"Dairy, Milk 4-1",1,Food - other,false,false,liter,12/31/2025 00:00:00,0.26,CGN Produce LLC ,IT - 1656 Collins Ave
+"Dry Goods, Equal Sweetener Packets",1,Disposable,false,false,each,01/01/2026 00:00:00,0.02,I Halper Paper and Supplies Inc,IT - 390 Fifth Ave
+"Disposable, Ice Cream Cup 4oz",1,Disposable,false,true,lb,01/01/2026 00:00:00,279.8,I Halper Paper and Supplies Inc,IT - 1014 Lincoln Rd
+"Cleaning Supplies, SUPP Mop Handle",1,Disposable,false,true,each,01/01/2026 00:00:00,16.9,I Halper Paper and Supplies Inc,IT - 390 Fifth Ave
+"Disposable, Hot Cup LOGO 16oz",1,Disposable,false,true,each,01/01/2026 00:00:00,0.01,I Halper Paper and Supplies Inc,IT - 390 Fifth Ave
+"Disposable, Hot Cup LOGO 12oz",1,Disposable,false,true,each,01/01/2026 00:00:00,0.01,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Cleaning Supplies, SUPP 2/CT #37 Peroxide Disinfectant Cleaner",1,Disposable,false,false,each,01/01/2026 00:00:00,108.8,IMPERIAL DADE,IT - 1656 Collins Ave
+"Disposable, Vacuum Bag",1,Disposable,false,false,each,01/01/2026 00:00:00,0.1,I Halper Paper and Supplies Inc,IT - 1014 Lincoln Rd
+"Disposable, White Bags Small",1,Disposable,false,true,each,01/01/2026 00:00:00,0.01,I Halper Paper and Supplies Inc,IT - 1014 Lincoln Rd
+"Cleaning Supplies, Sanitizer Ecologic Green",1,Disposable,false,false,liter,01/01/2026 00:00:00,3.51,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Disposable, Ice Cream Cup 8 Oz",1,Disposable,false,true,lb,01/01/2026 00:00:00,159.9,I Halper Paper and Supplies Inc,IT - 1014 Lincoln Rd
+"Disposable, Bakery Bag 4lb",1,Disposable,false,false,lb,01/01/2026 00:00:00,16.49,I Halper Paper and Supplies Inc,IT - 1014 Lincoln Rd
+"Disposable, Cold Cup LOGO 16oz",1,Disposable,false,true,each,01/01/2026 00:00:00,0.01,I Halper Paper and Supplies Inc,IT - 390 Fifth Ave
+"Disposable, Take-Out Container 38oz",1,Disposable,false,false,each,01/01/2026 00:00:00,0.3,I Halper Paper and Supplies Inc,IT - 390 Fifth Ave
+"NA Bev, Chinotto Sicilian Soda Polara",1,Soda,false,false,each,01/06/2026 00:00:00,0.89,VIANDER INC,IT - 1656 Collins Ave
+"Protein, Seafood Smoked Salmon PRE-SLICED - WILD",1,Seafood,true,false,lb,01/06/2026 00:00:00,18.5,VIANDER INC,IT - 1656 Collins Ave
+"Baked Goods, Scrocchiarella Classica",1,Baked Goods,false,true,each,01/08/2026 00:00:00,40.5,VIANDER INC,IT - 1014 Lincoln Rd
+"Baked Goods, Focaccia Rolls Plain",1,Baked Goods,true,false,each,01/10/2026 00:00:00,0.45,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"Baked Goods, Cranberry Orange Muffin",1,Baked Goods,false,true,each,01/10/2026 00:00:00,1.5,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"Dry Goods, Tart Shell Chocolate",1,Dry Goods,false,false,each,01/11/2026 00:00:00,0.17,Paris Gourmet,IT - 390 Fifth Ave
+"Dry Goods, Vanilla Paste",1,Dry Goods,true,false,lb,01/11/2026 00:00:00,6.67,Paris Gourmet,IT - 390 Fifth Ave
+"Whiskey, Johnnie Walker Blue 80",1,Liquor,false,false,liter,01/12/2026 00:00:00,249.47,Southern Glazer,IT - 1656 Collins Ave
+"Liqueur, BRAULIO LIQ AMARO",1,Liquor,false,true,each,01/12/2026 00:00:00,47.45,Southern Glazer,IT - 1656 Collins Ave
+"Dry Goods, Domina Triangle Darto White",1,Dry Goods,false,false,each,01/16/2026 00:00:00,0.29,Casella Specialties Inc.,IT - 390 Fifth Ave
+"Dry Goods, White Chocosmart",1,Dry Goods,false,false,each,01/16/2026 00:00:00,65.5,Casella Specialties Inc.,IT - 390 Fifth Ave
+"Dry Goods, Dobla White Chocolate Shaving",1,Dry Goods,true,false,each,01/16/2026 00:00:00,55,Casella Specialties Inc.,IT - 390 Fifth Ave
+"Dry Goods, Flour hi-glutenhi-protein",1,Food - other,false,false,lb,01/16/2026 00:00:00,0.56,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, Dobla Curvy Elegance Dark",1,Dry Goods,false,false,each,01/16/2026 00:00:00,55,Casella Specialties Inc.,IT - 390 Fifth Ave
+"Disposable, Cup Lid Alcas Coppa Deco",1,Disposable,false,false,each,01/16/2026 00:00:00,0.14,Casella Specialties Inc.,IT - 390 Fifth Ave
+"Disposable, Cup Alcas Coppa Deco",1,Disposable,false,false,each,01/16/2026 00:00:00,0.34,Casella Specialties Inc.,IT - 390 Fifth Ave
+"Produce, Blueberries fresh",1,Produce,false,true,liter,01/16/2026 00:00:00,5.36,Driscoll Foods,IT - 390 Fifth Ave
+"Produce, Potatoes",1,Produce,false,true,lb,01/16/2026 00:00:00,0.06,Driscoll Foods,IT - 390 Fifth Ave
+"Dry Goods, Mini Medero",1,Dry Goods,false,false,each,01/16/2026 00:00:00,0.19,Casella Specialties Inc.,IT - 390 Fifth Ave
+"Protein, Pepperoni Sliced",1,Food - other,false,true,lb,01/16/2026 00:00:00,6.49,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, Strawberry Topping",1,Food - other,true,true,liter,01/20/2026 00:00:00,10.66,ACE ENDICO,IT - 530 Seventh Ave
+"Disposable, Plastic Lid for Yogurt Cup",1,Disposable,false,false,each,01/22/2026 00:00:00,0.04,SimplyPak,IT - 1014 Lincoln Rd
+"Disposable, Tray Combo XS",1,Disposable,false,false,each,01/22/2026 00:00:00,0.12,SimplyPak,IT - 1014 Lincoln Rd
+"Dry Goods, Sacco Rosso Red Flour",1,Food - other,false,false,lb,01/23/2026 00:00:00,1.1,ACE ENDICO,IT - 530 Seventh Ave
+"NA Bev, Peach Daiquiri Mix",1,Liquor,false,true,each,01/23/2026 00:00:00,3.66,Southern Glazer,IT - 1656 Collins Ave
+"Dry Goods, Nutmeg Whole",1,Dry Goods,true,false,each,01/24/2026 00:00:00,12.99,Driscoll Foods,IT - 530 Seventh Ave
+"Frozen, Edamame",2,Frozen,false,false,lb,01/26/2026 00:00:00,3.98,"Superior Superfoods, LLC",IT - 1014 Lincoln Rd
+"Dry Goods, Pistachio Pesto",2,Dry Goods,false,false,lb,01/26/2026 00:00:00,16.57,SOGNO TOSCANO,IT - 1014 Lincoln Rd
+"NA Bev, Rishi Tat Blueberry Hibiscus",1,Coffee & Tea,false,false,each,01/26/2026 00:00:00,0.79,PRIME LINE DISTRIBUTORS,IT - 1656 Collins Ave
+"Disposable,  Cold Cup 10oz",1,Disposable,false,false,each,01/27/2026 00:00:00,0.05,SimplyPak,IT - 1656 Collins Ave
+"Baked Goods, Savoiardi Lady Finger Cookie",2,Food - other,false,true,lb,01/27/2026 00:00:00,5.75,ACE ENDICO,IT - 530 Seventh Ave
+"NA Bev, Polara Mandarino Verde Sicilian Soda",2,Soda,false,true,each,01/27/2026 00:00:00,0.89,VIANDER INC,IT - 1656 Collins Ave
+"Disposable, Paper 32oz Container Combo",2,Disposable,false,false,pack,01/27/2026 00:00:00,0.1,SimplyPak,IT - 1656 Collins Ave
+"Disposable, Plastic 8oz Container Mono Portion",3,Disposable,false,false,each,01/27/2026 00:00:00,0.05,SimplyPak,IT - 1656 Collins Ave
+"Protein, Seafood Battered Cod",1,Food - other,false,false,lb,01/30/2026 00:00:00,12.6,ACE ENDICO,IT - 390 Fifth Ave
+"Wine, Red Mirafiore Nebbiolo Langhe 21",1,Liquor,true,false,liter,01/30/2026 00:00:00,23.87,Southern Glazer,IT - 1656 Collins Ave
+"Dry Goods, Sugar Brown Dark",1,Food - other,false,false,lb,02/02/2026 00:00:00,1.95,ACE ENDICO,IT - 1014 Lincoln Rd
+"Disposable, Plastic Lid For Small Cup 2oz",3,Disposable,false,false,each,02/03/2026 00:00:00,0.01,Simply Pak LLC,IT - 1656 Collins Ave
+"Disposable, SUPP Carrier for Cups",3,Disposable,false,true,pack,02/03/2026 00:00:00,0.12,SimplyPak,IT - 1656 Collins Ave
+"Dairy, Swiss",1,Food - other,false,true,lb,02/04/2026 00:00:00,6.12,ACE ENDICO,IT - 390 Fifth Ave
+"Produce, Chives",1,Food - other,false,true,lb,02/04/2026 00:00:00,15.76,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, Sprinkles Chocolate",1,Food - other,false,false,lb,02/04/2026 00:00:00,3.38,ACE ENDICO,IT - 390 Fifth Ave
+"Produce, Apple Honey Crisp",1,Food - other,false,true,each,02/04/2026 00:00:00,0.11,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, Whole Rosemary",1,Dry Goods,true,false,lb,02/05/2026 00:00:00,12.15,VIANDER INC,IT - 1014 Lincoln Rd
+"Produce, Chickpeas",2,Food - other,true,true,lb,02/10/2026 00:00:00,0.58,ACE ENDICO,IT - 530 Seventh Ave
+"NA Bev, Tea Lemon Indian Black",1,Food - other,false,false,lb,02/10/2026 00:00:00,2.77,ACE ENDICO,IT - 530 Seventh Ave
+"Wine White, Bennati Pinot Grigio Fruili 23",1,Liquor,false,false,liter,02/12/2026 00:00:00,19.99,Southern Glazer,IT - 530 Seventh Ave
+"Dry Goods, Whole Peeled Tomatoes",1,Dry Goods,true,true,lb,02/13/2026 00:00:00,0.86,SOGNO TOSCANO,IT - 390 Fifth Ave
+"Dry Goods, White Truffle Oil",1,Dry Goods,false,false,liter,02/13/2026 00:00:00,102.08,SOGNO TOSCANO,IT - 390 Fifth Ave
+"Dry Goods, Past Gnocchi GF Gluten Free",1,Dry Goods,false,false,lb,02/13/2026 00:00:00,3.63,SOGNO TOSCANO,IT - 390 Fifth Ave
+"Dry Goods, Lasagna De Cecco Pasta",1,Food - other,false,true,lb,02/13/2026 00:00:00,3.81,ACE ENDICO,IT - 530 Seventh Ave
+"Dry Goods, Whole Yellow Datterino Tomatos",2,Dairy,false,false,lb,02/13/2026 00:00:00,7.47,SOGNO TOSCANO,IT - 390 Fifth Ave
+"Dairy, Romano Grated",2,Dairy,false,true,lb,02/13/2026 00:00:00,4,SOGNO TOSCANO,IT - 390 Fifth Ave
+"Baked Goods, Ladyfinger Cookie",3,Food - other,false,true,lb,02/16/2026 00:00:00,6.94,ACE ENDICO,IT - 390 Fifth Ave
+"Tequila, Don Julio Blanco",3,Liquor,true,true,each,02/17/2026 00:00:00,32,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Gin, Gordon's London",1,Liquor,false,false,liter,02/17/2026 00:00:00,12,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Produce, Blackberry",1,Food - other,false,true,liter,02/17/2026 00:00:00,3.43,ACE ENDICO,IT - 390 Fifth Ave
+"Beer, Yungling Lager Bottles",1,Beer - Other,false,false,each,02/17/2026 00:00:00,1.08,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Liqueur, Sambuca Ramazzotti",4,Liquor,false,false,liter,02/18/2026 00:00:00,248,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Liqueur, Jagermeister",4,Liquor,false,false,liter,02/18/2026 00:00:00,351,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Liqueur, Kahlua",5,Liquor,false,true,each,02/18/2026 00:00:00,385.92,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Whiskey, Makers Mark",4,Liquor,false,false,liter,02/18/2026 00:00:00,414.4,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Baked Goods, Bindi Belgian Waffle",2,Baked Goods,false,true,each,02/18/2026 00:00:00,1.35,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Whiskey, Crown Royal",3,Liquor,false,false,liter,02/18/2026 00:00:00,35,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Vodka, Skyy",4,Liquor,false,true,liter,02/18/2026 00:00:00,202.8,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"NA Bev, Bloody Mary Mix",4,NA Beverage - Other,false,false,liter,02/18/2026 00:00:00,8.74,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Whiskey, Jim Beam",4,Liquor,false,false,liter,02/18/2026 00:00:00,112.29,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Vodka, Belvedere",4,Liquor,false,false,liter,02/18/2026 00:00:00,243.6,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Whiskey, J&B Scotch",4,Liquor,false,false,liter,02/18/2026 00:00:00,365.4,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Gin, Malfy",4,Liquor,false,false,liter,02/18/2026 00:00:00,34.4,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Liqueur, Martini & Rossi Fiero",3,Liquor,false,false,liter,02/18/2026 00:00:00,78,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Rum, Cachaca Leblon",3,Liquor,false,false,liter,02/18/2026 00:00:00,27.95,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Mezcal, Montelobos Tequila",3,Liquor,false,true,each,02/18/2026 00:00:00,229.5,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Gin, Malfy Grapefruit",4,Liquor,false,false,liter,02/18/2026 00:00:00,34.4,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Dairy, Tofu Firm",3,Meat/ Protein,false,true,lb,02/18/2026 00:00:00,19.46,Seventh Ave House Vendor,IT - 530 Seventh Ave
+"Whiskey, Oban",4,Liquor,false,false,liter,02/18/2026 00:00:00,98.67,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Produce, Orange Blossom",3,NA Beverage - Other,true,true,lb,02/18/2026 00:00:00,5,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Liquor, Tequila Don Julio Anejo",4,Liquor,false,true,each,02/18/2026 00:00:00,319.5,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Tequila, Mezcal Vida Del Maguey",4,Liquor,false,false,liter,02/18/2026 00:00:00,295.28,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Gin, Monkey 47",4,Liquor,false,false,liter,02/18/2026 00:00:00,88.65,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Liqueur, Italicus",4,Liquor,false,true,each,02/18/2026 00:00:00,38.24,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Gin, Malfy Lemon (1 Liter)",4,Liquor,false,false,liter,02/18/2026 00:00:00,35,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Liqueur, De Kuyper Elderflower",3,Liquor,false,false,liter,02/18/2026 00:00:00,108,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Vodka, Beluga",4,Liquor,false,false,liter,02/18/2026 00:00:00,315.6,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Liqueur, DeKuyper Curacao",5,Liquor,false,false,liter,02/18/2026 00:00:00,11.55,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Liquor, Rum Barcelo Imperial 750ml",4,Liquor,false,false,liter,02/18/2026 00:00:00,208.8,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Liqueur, St Germain Elderflower (1 Liter)",3,Liquor,false,true,liter,02/18/2026 00:00:00,294,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"NA Bev, Liquor Strawberry Mix Daquari",2,NA Beverage - Other,false,false,lb,02/18/2026 00:00:00,2.53,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Whiskey, The Glenlivet",4,Liquor,false,false,liter,02/18/2026 00:00:00,760,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Whiskey, Jameson",4,Liquor,false,false,liter,02/18/2026 00:00:00,523.92,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Dry Goods, Chocosmart Dark",1,Dry Goods,true,false,lb,02/18/2026 00:00:00,5.4,Casella Specialties Inc.,IT - 390 Fifth Ave
+"Whiskey, Chivas Regal",4,Liquor,false,false,liter,02/18/2026 00:00:00,46.77,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Vodka, Titos",3,Liquor,false,false,liter,02/18/2026 00:00:00,340.56,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Baked Goods, Hazelnut Chocolate Muffin",2,Dry Goods,false,true,each,02/18/2026 00:00:00,52.5,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Vodka, Ketel One",4,Liquor,false,false,liter,02/18/2026 00:00:00,435,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Rum, Barcelo Blanco",4,Liquor,false,false,liter,02/18/2026 00:00:00,132,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Gin, Malfy Blood Orange",4,Liquor,false,false,liter,02/18/2026 00:00:00,34.4,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Produce, Black Olives",4,Produce,true,true,lb,02/18/2026 00:00:00,2.87,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"NA Bev, Strawberry Daiquiri Mix",2,Liquor,false,true,each,02/18/2026 00:00:00,3.16,Collins House Vendor,IT - 1656 Collins Ave
+"Liqueur, Grappa",2,Liquor,false,false,liter,02/18/2026 00:00:00,52.27,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Dry Goods, Pesto Genovese with Basil",4,Dry Goods,false,true,lb,02/18/2026 00:00:00,6.24,Collins House Vendor,IT - 1656 Collins Ave
+"Dry Goods, Caramel Filling Callebaut",1,Dry Goods,false,false,each,02/18/2026 00:00:00,21.35,Collins House Vendor,IT - 1656 Collins Ave
+"Rum, Golden Zacapa (1 Liter)",4,Liquor,false,false,liter,02/18/2026 00:00:00,362.7,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Dry Goods, Nostralina Toscana Pitted",1,Dry Goods,false,false,lb,02/18/2026 00:00:00,3.24,SOGNO TOSCANO,IT - 390 Fifth Ave
+"Dry Goods, Caputo Rossa Flour",4,Dry Goods,false,true,lb,02/18/2026 00:00:00,0.99,Seventh Ave House Vendor,IT - 530 Seventh Ave
+"Liqueur, Cynar Artichoke",4,Liquor,false,false,liter,02/18/2026 00:00:00,38.2,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Tequila, Pueblo Viejo Blanco (1 Liter)",2,Liquor,false,false,liter,02/18/2026 00:00:00,370.5,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Tequila, Arandas Blanco",4,Liquor,false,true,each,02/18/2026 00:00:00,129,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Gin, Bombay",4,Liquor,true,false,liter,02/18/2026 00:00:00,30,Lincoln House Vendor,IT - 1014 Lincoln Rd
+"Baked Goods, Brioche Bun 4.5""",2,Baked Goods,true,true,each,02/18/2026 00:00:00,0.75,Seventh Ave House Vendor,IT - 530 Seventh Ave
+"Dry Goods, Coconut Milk",3,Dry Goods,true,true,lb,02/19/2026 00:00:00,3.72,VIANDER INC,IT - 1014 Lincoln Rd
+"Dry Goods, Chick Peas in Brine",1,Dry Goods,false,false,lb,02/19/2026 00:00:00,1.22,VIANDER INC,IT - 1014 Lincoln Rd
+"Disposables, SUPP Sleeve for Hot Cup",3,Disposable,false,true,each,02/20/2026 00:00:00,0.45,SimplyPak,IT - 1014 Lincoln Rd
+"Dry Goods, Simple Syrup",1,Liquor,false,true,each,02/20/2026 00:00:00,0,Southern Glazer,IT - 1656 Collins Ave
+"Liqueur, Martini & Rossi Rosso",5,Liquor,false,true,each,02/20/2026 00:00:00,11.25,Southern Glazer,IT - 1014 Lincoln Rd
+"Tequila, Casamigos Reposado",1,Liquor,false,true,each,02/20/2026 00:00:00,70.7,Southern Glazer,IT - 1014 Lincoln Rd
+"Gin, Gray Whale Gin 86",1,Liquor,false,true,each,02/20/2026 00:00:00,28.1,Southern Glazer,IT - 1014 Lincoln Rd
+"Tequila, Clase Azul Reposado",1,Liquor,false,false,each,02/20/2026 00:00:00,137.1,Southern Glazer,IT - 1656 Collins Ave
+"Gin, Roku",5,Liquor,false,false,liter,02/20/2026 00:00:00,37.45,Southern Glazer,IT - 1014 Lincoln Rd
+"Baked Goods, Glaze Neutral",1,Baked Goods,false,true,lb,02/20/2026 00:00:00,0.87,Paris Gourmet,IT - 390 Fifth Ave
+"Soda, San Pellegrino Limonata Can",1,Liquor,false,false,liter,02/20/2026 00:00:00,18.82,Southern Glazer,IT - 1656 Collins Ave
+"Gin, Tanqueray",5,Liquor,true,true,each,02/20/2026 00:00:00,32.45,Southern Glazer,IT - 1656 Collins Ave
+"Gin, Citadelle Gin B8",1,Liquor,false,true,each,02/20/2026 00:00:00,25.2,Southern Glazer,IT - 1014 Lincoln Rd
+"Malibu, Rum Coconut",1,Liquor,false,false,liter,02/20/2026 00:00:00,23.78,Southern Glazer,IT - 1014 Lincoln Rd
+"Protein, Bacon Layout 18-22",4,Meat/ Protein,true,true,lb,02/21/2026 00:00:00,4.18,"Superior Superfoods, LLC",IT - 1656 Collins Ave
+"Produce, Cucumber",2,Produce,false,true,each,02/23/2026 00:00:00,1.3,Excellent Fruit & Produce,IT - 1014 Lincoln Rd
+"Produce, Blackberries Pint",1,Produce,false,false,lb,02/23/2026 00:00:00,10.13,Excellent Fruit & Produce,IT - 1014 Lincoln Rd
+"Produce, Cantaloupe",1,Produce,false,false,each,02/23/2026 00:00:00,5.95,Excellent Fruit & Produce,IT - 1014 Lincoln Rd
+"Dairy, Quart Heavy Cream",1,Dairy,false,false,each,02/23/2026 00:00:00,59.74,"Superior Superfoods, LLC",IT - 1656 Collins Ave
+"Produce, Green Seedless Grapes",1,Produce,false,false,lb,02/23/2026 00:00:00,3.45,Excellent Fruit & Produce,IT - 1014 Lincoln Rd
+"Protein, Mortadella Pistachio",3,Produce,false,false,lb,02/23/2026 00:00:00,6.59,Excellent Fruit & Produce,IT - 1014 Lincoln Rd
+"Produce, Watermelon",6,Produce,true,true,each,02/23/2026 00:00:00,9.4,Excellent Fruit & Produce,IT - 1014 Lincoln Rd
+"Protein, Prosciutto Cotto Ferrarini",2,Produce,false,false,lb,02/23/2026 00:00:00,7.03,Excellent Fruit & Produce,IT - 1014 Lincoln Rd
+"Produce, Raspberry",4,Produce,true,true,lb,02/23/2026 00:00:00,8.27,Excellent Fruit & Produce,IT - 1014 Lincoln Rd
+"Produce, Idaho Potatoes",1,Produce,false,false,each,02/23/2026 00:00:00,0.42,Excellent Fruit & Produce,IT - 1014 Lincoln Rd
+"Produce, Grapefruit",1,Produce,false,false,each,02/23/2026 00:00:00,1.09,Excellent Fruit & Produce,IT - 1014 Lincoln Rd
+"Produce, Spinach",1,Produce,false,false,lb,02/23/2026 00:00:00,2.92,Excellent Fruit & Produce,IT - 1014 Lincoln Rd
+"Produce, Capers",1,Produce,false,false,each,02/23/2026 00:00:00,53.9,Excellent Fruit & Produce,IT - 1014 Lincoln Rd
+"Protein, Prosciutto Italian Ferrarini",2,Produce,false,false,lb,02/23/2026 00:00:00,8.03,Excellent Fruit & Produce,IT - 1014 Lincoln Rd
+"Produce, Corn Starch",1,Produce,false,false,lb,02/24/2026 00:00:00,2.08,VIANDER INC,IT - 1656 Collins Ave
+"Dry Goods, Nutmeg Whole Fresh",2,Dry Goods,true,true,lb,02/24/2026 00:00:00,3.17,VIANDER INC,IT - 1656 Collins Ave
+"Dry Goods, Baking Powder",2,Dry Goods,true,false,lb,02/24/2026 00:00:00,95.69,VIANDER INC,IT - 1656 Collins Ave
+"Dry, Baking Soda",2,Dry Goods,false,false,lb,02/24/2026 00:00:00,3.19,VIANDER INC,IT - 1656 Collins Ave
+"Produce, Bay leaf fresh",2,Produce,false,true,lb,02/24/2026 00:00:00,11.14,VIANDER INC,IT - 1656 Collins Ave
+"Dry Goods, Soya Oil",1,Dry Goods,false,false,each,02/26/2026 00:00:00,105,VIANDER INC,IT - 1656 Collins Ave
+"Liqueur, Baileys",5,Liquor,false,true,each,02/27/2026 00:00:00,40.95,Southern Glazer,IT - 1014 Lincoln Rd
+"Protein, Sweet Italian Sausage",3,Food - other,true,true,lb,02/28/2026 00:00:00,4.5,ACE ENDICO,IT - 530 Seventh Ave
+"Produce, Red Onion",2,Food - other,true,false,each,02/28/2026 00:00:00,25,CGN Produce LLC ,IT - 1656 Collins Ave
+"Dry Goods, Chick Pea Flour",1,Dry Goods,false,false,each,03/02/2026 00:00:00,38,PRIME LINE DISTRIBUTORS,IT - 1656 Collins Ave
+"NA Bev, S.Bernardo Still 12x1L",3,Water,false,true,each,03/02/2026 00:00:00,1.29,VIANDER INC,IT - 1014 Lincoln Rd
+"Beer, Modelo Esp Bottle",2,Beer - Other,false,true,each,03/04/2026 00:00:00,1.57,Gold Coast Beverage  LLC,IT - 1014 Lincoln Rd
+"Baked Goods, Schiacciata",1,Dry Goods,false,true,each,03/05/2026 00:00:00,13.6,SOGNO TOSCANO,IT - 390 Fifth Ave
+"White Wine, Villa Sparina Gavi",3,Wine,true,true,each,03/06/2026 00:00:00,12.67,Southern Glazer,IT - 1656 Collins Ave
+"Wine Red, Ruffing Chianti 1877",1,Wine,false,false,liter,03/06/2026 00:00:00,9.33,Southern Glazer,IT - 1656 Collins Ave
+"Red Wine, Villa Sparina Barbera",2,Wine,false,true,each,03/06/2026 00:00:00,12.67,Southern Glazer,IT - 1656 Collins Ave
+"Dry Goods, Filoncino",1,Meat/ Protein,false,false,lb,03/09/2026 00:00:00,4.4,SOGNO TOSCANO,IT - 1656 Collins Ave
+"Produce, Pomegranate",6,Food - other,true,true,each,03/09/2026 00:00:00,2.67,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, Strawberry Syrup",2,Dry Goods,false,true,each,03/09/2026 00:00:00,5.51,VIANDER INC,IT - 1656 Collins Ave
+"Food Other, Puree Peach",1,Food - other,false,false,lb,03/09/2026 00:00:00,1.28,ACE ENDICO,IT - 390 Fifth Ave
+"Coffee, Tostini Coffee",1,Coffee & Tea,false,true,lb,03/11/2026 00:00:00,3.08,VIANDER INC,IT - 1014 Lincoln Rd
+"Disposable, Lid for 16oz Plastic Cup",1,Disposable,false,false,each,03/12/2026 00:00:00,0.01,IMPERIAL DADE,IT - 390 Fifth Ave
+"Produce, Granny Smith Apple",2,Food - other,true,true,each,03/12/2026 00:00:00,54.05,ACE ENDICO,IT - 390 Fifth Ave
+"Tequila, Don Julio Reposado",3,Liquor,false,true,each,03/13/2026 00:00:00,49.35,Southern Glazer,IT - 1014 Lincoln Rd
+"Protein, Lobster Tail 75G",1,Dry Goods,true,true,lb,03/13/2026 00:00:00,632.85,"Bindi North America, Inc",IT - 390 Fifth Ave
+"Beer, Draft  Modelo ESP",1,Beer - Draft,false,true,liter,03/16/2026 00:00:00,4.87,Gold Coast Beverage  LLC,IT - 1656 Collins Ave
+"Dry Goods, Sweetener Splenda",3,Dry Goods,false,true,each,03/16/2026 00:00:00,0.02,VIANDER INC,IT - 1014 Lincoln Rd
+"Disposable, Cup Cold Dome No Hole",1,Disposable,false,false,each,03/17/2026 00:00:00,0.05,IMPERIAL DADE,IT - 1014 Lincoln Rd
+"Wine Rose, La Gioiosa Prosecco Rose",2,Wine,true,true,each,03/17/2026 00:00:00,12.9,Fifth Ave House Vendor,IT - 390 Fifth Ave
+"Baked Goods, Cannoli Grandi",1,Dry Goods,true,false,each,03/18/2026 00:00:00,0.42,Casella Specialties Inc.,IT - 390 Fifth Ave
+"Cleaning Supplies, VB Lid Hot Cup Dome White 92MM",1,Disposable,false,true,each,03/19/2026 00:00:00,0.06,IMPERIAL DADE,IT - 530 Seventh Ave
+"Dry Goods, Mustard",1,Dry Goods,true,true,liter,03/19/2026 00:00:00,1.71,Seventh Ave House Vendor,IT - 530 Seventh Ave
+"Dry Goods, Penne Gluten Free Granoro",1,Dry Goods,false,false,lb,03/21/2026 00:00:00,3.87,VIANDER INC,IT - 1014 Lincoln Rd
+"Dry Goods, Spaghetti Gluten Free Granoro",1,Dry Goods,false,false,lb,03/21/2026 00:00:00,3.87,VIANDER INC,IT - 1014 Lincoln Rd
+"Disposable, Plastic Cup 12Oz w/logo",1,Food - other,false,false,each,03/23/2026 00:00:00,0.42,ACE ENDICO,IT - 530 Seventh Ave
+"Baked Good, Blueberry Muffin",2,Baked Goods,false,true,each,03/24/2026 00:00:00,1.5,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"Dairy, Almond Milk Unsalted",1,Food - other,false,true,each,03/27/2026 00:00:00,4.83,ACE ENDICO,IT - 530 Seventh Ave
+"Produce, Radish CAJA",1,Food - other,false,false,each,03/28/2026 00:00:00,20,CGN Produce LLC ,IT - 1656 Collins Ave
+"Dry Goods, Flour Almond Blanched",1,Food - other,true,true,lb,04/02/2026 00:00:00,11.41,ACE ENDICO,IT - 390 Fifth Ave
+"Wine Red, Mirafiore Langhe Nebbiolo",2,Wine,true,true,each,04/03/2026 00:00:00,17.5,Southern Glazer,IT - 1656 Collins Ave
+"Wine Red, La Vis Pinot Nero",2,Wine,true,true,each,04/03/2026 00:00:00,10.5,Southern Glazer,IT - 1656 Collins Ave
+"NA Bev, Bene Tonic Water",3,Liquor,false,true,each,04/03/2026 00:00:00,5,Southern Glazer,IT - 1656 Collins Ave
+"Dry Goods, Pinsa Pala Ciro 12x20",1,Dry Goods,true,false,lb,04/04/2026 00:00:00,3.51,VIANDER INC,IT - 1656 Collins Ave
+"Red Wine, Lavis Cabernet Sauvignon",1,Wine,false,false,each,04/04/2026 00:00:00,10,Ms walker,IT - 530 Seventh Ave
+"Dry Goods, FLOUR NUVOLA SUPER",1,Food - other,false,false,lb,04/04/2026 00:00:00,1.05,ACE ENDICO,IT - 390 Fifth Ave
+"Produce, White Onion",7,Produce,true,true,lb,04/04/2026 00:00:00,0.74,Excellent Fruit & Produce,IT - 1656 Collins Ave
+"Dry Goods, Sfogliatella Riccia 110g",1,Dry Goods,false,false,lb,04/06/2026 00:00:00,245.1,"Bindi North America, Inc",IT - 390 Fifth Ave
+"Dry Goods, Bazzini Raw Pistachios",1,Dry Goods,false,false,lb,04/06/2026 00:00:00,20.8,VIANDER INC,IT - 1014 Lincoln Rd
+"Dry Goods, Tomato Passata",1,Dry Goods,false,false,lb,04/06/2026 00:00:00,0.98,VIANDER INC,IT - 1014 Lincoln Rd
+"Produce, Grape Tomato",5,Food - other,true,true,lb,04/06/2026 00:00:00,4.74,ACE ENDICO,IT - 390 Fifth Ave
+"Cleaning Supplies, SUPP Broom",3,Disposable,false,true,each,04/07/2026 00:00:00,20.72,IMPERIAL DADE,IT - 1656 Collins Ave
+"Baked Goods, Bindi Croissant",1,Baked Goods,false,false,each,04/09/2026 00:00:00,1.05,PRIME LINE DISTRIBUTORS,IT - 1656 Collins Ave
+"Beer, Birra Menabrea Ambrata Bottle",3,Beer - Other,true,true,each,04/10/2026 00:00:00,2.41,WineBow,IT - 1014 Lincoln Rd
+"Beer, Birra Menabrea Bionda Bottle",3,Beer - Other,true,true,each,04/10/2026 00:00:00,1.92,WineBow,IT - 1014 Lincoln Rd
+"Dairy, Top Cream",2,Dairy,false,true,lb,04/14/2026 00:00:00,4.49,Casella Specialties Inc.,IT - 390 Fifth Ave
+"Disposable, SUPP Dessert Tray",2,Disposable,false,false,each,04/14/2026 00:00:00,0.07,SimplyPak,IT - 1014 Lincoln Rd
+"Cleaning Supplies, SUPP Mop White",1,Disposable,false,false,each,04/14/2026 00:00:00,3.4,IMPERIAL DADE,IT - 390 Fifth Ave
+"Disposable, Soap Foam 1L",1,Disposable,false,false,each,04/14/2026 00:00:00,14.75,IMPERIAL DADE,IT - 1014 Lincoln Rd
+"Produce, Golden Pineapple",2,Food - other,true,true,each,04/15/2026 00:00:00,9,CGN Produce LLC ,IT - 1656 Collins Ave
+"Beer, Birra Moretti",1,Beer - Other,false,true,each,04/16/2026 00:00:00,1.5,"MANHATTAN BEER DIST LLC,",IT - 530 Seventh Ave
+"Beer, Draft Keg Deposit Manhattan",1,Beer - Other,false,false,each,04/16/2026 00:00:00,1.2,"MANHATTAN BEER DIST LLC,",IT - 530 Seventh Ave
+"Dry Goods, Ciabatta Sandwich",1,Dry Goods,false,false,each,04/18/2026 00:00:00,1.2,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"Dry Goods, Powder Cream",1,Food - other,true,false,lb,04/18/2026 00:00:00,9.6,ACE ENDICO,IT - 530 Seventh Ave
+"Dairy, Heavy Cream 36%",3,Dairy,false,true,liter,04/20/2026 00:00:00,5.33,VIANDER INC,IT - 1014 Lincoln Rd
+"Dairy, Sheep Ricotta",1,Dairy,true,true,lb,04/21/2026 00:00:00,4.91,Casella Specialties Inc.,IT - 530 Seventh Ave
+"Disposable, Pet cup",1,Disposable,false,false,each,04/21/2026 00:00:00,0.03,SimplyPak,IT - 1656 Collins Ave
+"Disposables, SUPP Hand Sanitizer",1,Disposable,false,false,each,04/21/2026 00:00:00,60.13,IMPERIAL DADE,IT - 390 Fifth Ave
+"Protein, Mortadella Sicilian pasta",2,Meat/ Protein,false,true,lb,04/23/2026 00:00:00,6.9,SOGNO TOSCANO,IT - 390 Fifth Ave
+"Disposable, Cup 16oz Paper Custom P",2,Food - other,false,false,pack,04/24/2026 00:00:00,0.01,ACE ENDICO,IT - 390 Fifth Ave
+"Produce, Plant Based Shredded Mozzarella",1,Food - other,false,true,lb,04/27/2026 00:00:00,5.05,ACE ENDICO,IT - 390 Fifth Ave
+"Produce, Tri Color Quinoa",3,Food - other,true,true,lb,04/27/2026 00:00:00,3.53,ACE ENDICO,IT - 390 Fifth Ave
+"Cleaning Supplies, SUPP Bleach",1,Disposable,false,false,liter,04/28/2026 00:00:00,1.22,IMPERIAL DADE,IT - 390 Fifth Ave
+"Disposable, VB CUP COLD TRANS PP 9 OZ",1,Disposable,false,false,pack,04/28/2026 00:00:00,0.04,IMPERIAL DADE,IT - 390 Fifth Ave
+"Dry Goods, Tart Shell Sweet Large Round",2,Dry Goods,false,true,each,04/28/2026 00:00:00,0.5,Casella Specialties Inc.,IT - 390 Fifth Ave
+"Cleaning Supplies, VB Stainless Steel Cleaner",1,Disposable,false,false,each,04/28/2026 00:00:00,11.29,IMPERIAL DADE,IT - 390 Fifth Ave
+"Disposables, SUPP Display Brown Paper",3,Disposable,false,false,pack,04/29/2026 00:00:00,0.08,IMPERIAL DADE,IT - 530 Seventh Ave
+"Disposables, SUPP Oven White Paper",1,Disposable,false,false,each,04/29/2026 00:00:00,0.07,IMPERIAL DADE,IT - 530 Seventh Ave
+"Disposables, VB Can Liner 40X46 1.5MIL Blue",1,Disposable,false,false,each,04/29/2026 00:00:00,0.41,IMPERIAL DADE,IT - 530 Seventh Ave
+"Rum, Bacardi",5,Liquor,false,true,each,05/01/2026 00:00:00,20.12,Southern Glazer,IT - 1014 Lincoln Rd
+"Vodka, Grey Goose",5,Liquor,true,false,liter,05/01/2026 00:00:00,7.16,Southern Glazer,IT - 1014 Lincoln Rd
+"Dry Goods, Syrup Hazelnut Monin",1,Food - other,false,false,liter,05/01/2026 00:00:00,4.29,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, Whey Protein Vanilla",1,Food - other,true,false,lb,05/02/2026 00:00:00,24.2,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, White Vinegar",2,Food - other,true,true,liter,05/02/2026 00:00:00,0.3,ACE ENDICO,IT - 390 Fifth Ave
+"Baked Goods, Cannoli Small",1,Baked Goods,false,true,each,05/04/2026 00:00:00,0.26,PRIME LINE DISTRIBUTORS,IT - 1656 Collins Ave
+"Dry Goods, Yeast",5,Dry Goods,true,true,lb,05/04/2026 00:00:00,5.25,VIANDER INC,IT - 1656 Collins Ave
+"NA Bev, Tostini Espresso",4,Coffee & Tea,false,true,pack,05/04/2026 00:00:00,19.83,VIANDER INC,IT - 1014 Lincoln Rd
+"Disposables, SUPP Lid for Dessert Tray",2,Disposable,false,false,each,05/05/2026 00:00:00,0.07,SimplyPak,IT - 1656 Collins Ave
+"Disposables, Paper Hot Cup 4Oz",3,Disposable,false,true,each,05/06/2026 00:00:00,0.04,I Halper Paper and Supplies Inc,IT - 390 Fifth Ave
+"Cleaning Supplies, SUPP 4/CT High-Temp Rinse blue",2,Disposable,false,true,each,05/06/2026 00:00:00,6.6,I Halper Paper and Supplies Inc,IT - 390 Fifth Ave
+"Cleaning Supplies, SUPP Stainless Steel Sponge",1,Disposable,false,true,each,05/07/2026 00:00:00,0.63,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Beer, Draft Yuengling Lager",1,Beer - Draft,true,true,liter,05/07/2026 00:00:00,2.93,Gold Coast Beverage  LLC,IT - 1656 Collins Ave
+"Protein, Egg Yolk Liquid",2,Food - other,true,true,lb,05/07/2026 00:00:00,3.99,ACE ENDICO,IT - 390 Fifth Ave
+"Disposables, Paper Pizza Box w/Logo",3,Food - other,false,false,each,05/08/2026 00:00:00,0.1,ACE ENDICO,IT - 530 Seventh Ave
+"Dry Goods, Hazelnut Chocolate Spread",1,Food - other,false,true,lb,05/08/2026 00:00:00,6.67,ACE ENDICO,IT - 530 Seventh Ave
+"Cleaning Supplies, VB Can Liner 40X46 1.OMIL Blk",1,Disposable,false,false,pack,05/08/2026 00:00:00,0.32,IMPERIAL DADE,IT - 530 Seventh Ave
+"Gen Expenses, Fuel Surcharge",2,PURCHASE SUMMARY,false,false,each,05/08/2026 00:00:00,7,VIANDER INC,IT - 1656 Collins Ave
+"NA Bev, Rishi Tea Jade Cloud",1,Coffee & Tea,false,false,each,05/11/2026 00:00:00,0.51,PRIME LINE DISTRIBUTORS,IT - 1656 Collins Ave
+"NA Bev, Chamomile Tea",2,Coffee & Tea,false,false,each,05/11/2026 00:00:00,0.51,PRIME LINE DISTRIBUTORS,IT - 1656 Collins Ave
+"Dry Goods, Brown Sugar",2,Food - other,false,false,each,05/11/2026 00:00:00,0.03,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, Rishi Tea Jasmine",1,Coffee & Tea,false,false,each,05/11/2026 00:00:00,0.51,PRIME LINE DISTRIBUTORS,IT - 1656 Collins Ave
+"Dry Goods, Passata DiAlbicocca",1,Dry Goods,false,false,each,05/12/2026 00:00:00,109,Casella Specialties Inc.,IT - 530 Seventh Ave
+"Disposable, Tissue 2Ply",2,Disposable,false,false,each,05/12/2026 00:00:00,2.82,SimplyPak,IT - 1014 Lincoln Rd
+"Disposable, Cup Hot WHT Paper 4oz",1,Disposable,false,false,each,05/12/2026 00:00:00,0.05,IMPERIAL DADE,IT - 1014 Lincoln Rd
+"Disposable, Parchment Paper",1,Disposable,false,false,each,05/12/2026 00:00:00,0.03,SimplyPak,IT - 1014 Lincoln Rd
+"Dry Goods, Irca Mirror Neutral",3,Dry Goods,false,true,lb,05/12/2026 00:00:00,5.25,Casella Specialties Inc.,IT - 530 Seventh Ave
+"Dry Goods, Pistachio Cream",11,Dairy,true,true,lb,05/12/2026 00:00:00,9.89,Casella Specialties Inc.,IT - 530 Seventh Ave
+"Disposable, Sponge SS 12Pk",1,Disposable,false,false,each,05/12/2026 00:00:00,0.83,IMPERIAL DADE,IT - 1014 Lincoln Rd
+"Tequila, Casamigos White",3,Liquor,true,true,each,05/13/2026 00:00:00,47.45,Southern Glazer,IT - 1014 Lincoln Rd
+"Beer, Draft Peroni",2,Beer - Other,false,true,liter,05/13/2026 00:00:00,121,"MANHATTAN BEER DIST LLC,",IT - 390 Fifth Ave
+"Wine White, Pico Maccario Moscato O'asti",1,Wine,true,true,each,05/13/2026 00:00:00,12.5,Southern Glazer,IT - 1014 Lincoln Rd
+"Wine Red, La Vis Cabernet Trentino",2,Wine,false,true,each,05/13/2026 00:00:00,12,Southern Glazer,IT - 1014 Lincoln Rd
+"Baked Goods, Chocolate Croissant",2,Baked Goods,false,true,each,05/14/2026 00:00:00,1.4,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"NA Bev, Hot Tea Bags",1,Food - other,false,false,each,05/14/2026 00:00:00,0.4,ACE ENDICO,IT - 530 Seventh Ave
+"Disposable, Plastic Cup 12Oz No Logo OJ",6,Food - other,false,false,each,05/14/2026 00:00:00,0.06,ACE ENDICO,IT - 530 Seventh Ave
+"Dry Goods, Pasta Sauce Cherry Tomato",2,Dry Goods,false,false,lb,05/14/2026 00:00:00,3.18,VIANDER INC,IT - 1656 Collins Ave
+"Baked Goods, Esse Mignon",2,Dry Goods,false,false,each,05/15/2026 00:00:00,35.56,"Bindi North America, Inc",IT - 390 Fifth Ave
+"Cleaning Supplies, VB Gloves Nitrile MED BLK GP",1,Disposable,false,false,each,05/15/2026 00:00:00,0.04,IMPERIAL DADE,IT - 390 Fifth Ave
+"Dry Goods, Sabbiosino",1,Dry Goods,false,true,each,05/15/2026 00:00:00,35.56,"Bindi North America, Inc",IT - 390 Fifth Ave
+"Produce, Carrot",8,Produce,true,true,lb,05/16/2026 00:00:00,0.8,Driscoll Foods,IT - 390 Fifth Ave
+"Dry Goods, Decaf Espresso Pods",1,Coffee & Tea,false,true,each,05/18/2026 00:00:00,0.5,VIANDER INC,IT - 1014 Lincoln Rd
+"Dry Goods, Brown Sugar Packets",6,Dry Goods,true,true,each,05/18/2026 00:00:00,0.03,VIANDER INC,IT - 1014 Lincoln Rd
+"NA Bev, Limonata S.Bernardo",1,NA Beverage - Other,false,false,each,05/18/2026 00:00:00,16.5,VIANDER INC,IT - 1014 Lincoln Rd
+"Baked Goods, Dark Chocolate Block 55.4%",2,Dry Goods,false,false,each,05/18/2026 00:00:00,12.22,VIANDER INC,IT - 1014 Lincoln Rd
+"NA Bev, Orange Blossom Water",1,Food - other,false,false,each,05/18/2026 00:00:00,4.45,ACE ENDICO,IT - 530 Seventh Ave
+"Disposable, Italian Trattoria KFT",1,Disposable,false,false,each,05/19/2026 00:00:00,0.34,IMPERIAL DADE,IT - 1656 Collins Ave
+"Dry, Dark Chocolate 64%",1,Food - other,false,false,lb,05/19/2026 00:00:00,20.39,ACE ENDICO,IT - 390 Fifth Ave
+"Disposable, Round Bowl 32oz",2,Disposable,false,false,each,05/19/2026 00:00:00,0.18,IMPERIAL DADE,IT - 390 Fifth Ave
+"NA Bev, Lemon Juice",7,Juice,true,true,liter,05/21/2026 00:00:00,5.75,VIANDER INC,IT - 1014 Lincoln Rd
+"Protein, Cooked Ham",6,Meat/ Protein,true,true,lb,05/21/2026 00:00:00,6.7,VIANDER INC,IT - 1014 Lincoln Rd
+"Protein, Bacon Meat",2,Meat/ Protein,true,true,lb,05/21/2026 00:00:00,4.6,VIANDER INC,IT - 1014 Lincoln Rd
+"NA Bev, Lemon San Pellegrino",1,Soda,false,false,liter,05/23/2026 00:00:00,3.37,VIANDER INC,IT - 1014 Lincoln Rd
+"Cleaning Supplies, SUPP 5GAL Dish Multi-Temp Detergent Red",1,Disposable,false,false,liter,05/26/2026 00:00:00,7.4,IMPERIAL DADE,IT - 530 Seventh Ave
+"Dry Goods, Fine Salt",2,Dry Goods,true,true,lb,05/26/2026 00:00:00,0.53,VIANDER INC,IT - 1656 Collins Ave
+"Dry Goods, Hersheys Mini Chips",2,Dry Goods,false,true,lb,05/26/2026 00:00:00,5.6,VIANDER INC,IT - 1014 Lincoln Rd
+"Disposables, SUPP Lid for Take-Out Bowl",2,Disposable,false,false,each,05/26/2026 00:00:00,0.15,SimplyPak,IT - 1656 Collins Ave
+"Dry Goods, Flour Cake",2,Dry Goods,true,false,lb,05/26/2026 00:00:00,0.76,VIANDER INC,IT - 1014 Lincoln Rd
+"Disposable, Kraft Bag",1,Disposable,false,false,each,05/26/2026 00:00:00,0.28,IMPERIAL DADE,IT - 530 Seventh Ave
+"Disposables, Paper It Logo Small Bag",3,Disposable,false,false,each,05/27/2026 00:00:00,0.3,IMPERIAL DADE,IT - 390 Fifth Ave
+"Disposable, DELI CUP 32 OZ COMBO",2,Disposable,false,false,each,05/27/2026 00:00:00,0.26,IMPERIAL DADE,IT - 390 Fifth Ave
+"Cleaning Supplies, SUPP 4/CT Green Dish Detergent",1,Disposable,false,false,each,05/27/2026 00:00:00,15.75,IMPERIAL DADE,IT - 1656 Collins Ave
+"Disposable, Take-Out Bowl",2,Disposable,false,true,each,05/27/2026 00:00:00,0.3,I Halper Paper and Supplies Inc,IT - 390 Fifth Ave
+"NA Bev, Monin Vanilla Syrup",4,NA Beverage - Other,false,true,liter,05/30/2026 00:00:00,11.65,PRIME LINE DISTRIBUTORS,IT - 1656 Collins Ave
+"NA Bev, Rishi Tea English",1,Coffee & Tea,false,false,each,05/30/2026 00:00:00,0.51,PRIME LINE DISTRIBUTORS,IT - 1656 Collins Ave
+"NA Bev, Monin Syrup Caramel",3,NA Beverage - Other,false,true,lb,05/30/2026 00:00:00,5.6,PRIME LINE DISTRIBUTORS,IT - 1656 Collins Ave
+"Disposable, Pan Aluminum 1/2 Medium",1,Disposable,false,true,each,06/01/2026 00:00:00,54.95,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Disposables, Paper Sandwich Kraft Bag",2,Disposable,false,true,pack,06/01/2026 00:00:00,0.1,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Disposables, Paper Hot Cup LOGO 12oz",4,Disposable,false,true,each,06/01/2026 00:00:00,0.07,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Cleaning Supplies, SUPP 5GAL Dish Sanitizer Low-Temp",2,Disposable,false,false,each,06/01/2026 00:00:00,77.06,IMPERIAL DADE,IT - 530 Seventh Ave
+"Disposable, Lid for 12-16oz Plastic Cup",3,Disposable,false,true,each,06/01/2026 00:00:00,0.08,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Disposable, Clear Lid for 6.8oz",1,Disposable,false,true,each,06/01/2026 00:00:00,0.09,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Cleaning Supplies, SUPP Air Freshener",2,Disposable,false,true,pack,06/01/2026 00:00:00,4.38,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Baked Goods, Bindi Biscotti Fragola",4,Dry Goods,false,true,each,06/01/2026 00:00:00,35.56,"Bindi North America, Inc",IT - 390 Fifth Ave
+"Disposable, Catering Box Regular",1,Disposable,false,true,each,06/01/2026 00:00:00,1.93,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Disposable, Cold Cup 16oz PET",1,Disposable,false,true,each,06/01/2026 00:00:00,0.06,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Wine White, Valdo Prosecco Brut Superior",2,Wine,true,true,each,06/04/2026 00:00:00,14,Southern Glazer,IT - 530 Seventh Ave
+"Liqueur, St. Germain 40",2,Liquor,false,true,each,06/04/2026 00:00:00,25.86,Southern Glazer,IT - 530 Seventh Ave
+"Sparkling Wine, Valdo Numero 1",2,Wine,true,true,each,06/04/2026 00:00:00,7.67,Southern Glazer,IT - 530 Seventh Ave
+"Dry Goods, Farina Super Nuvola Flour",3,Dry Goods,true,true,lb,06/05/2026 00:00:00,1.08,PRIME LINE DISTRIBUTORS,IT - 1656 Collins Ave
+"Disposables, Sheet Deli KFT Paper 12X10.75",1,Disposable,false,true,each,06/05/2026 00:00:00,0.02,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Disposable, Ice Cream Cup 6oz",1,Disposable,false,true,lb,06/08/2026 00:00:00,213.2,I Halper Paper and Supplies Inc,IT - 1014 Lincoln Rd
+"Disposable, Taster Spoon 3in",1,Disposable,false,true,each,06/08/2026 00:00:00,0.01,I Halper Paper and Supplies Inc,IT - 1014 Lincoln Rd
+"Disposable, Wipers Wypall",1,Disposable,false,false,each,06/09/2026 00:00:00,0.25,IMPERIAL DADE,IT - 1014 Lincoln Rd
+"Baked Goods, Bindi Cantuccio Toscani",1,Dry Goods,false,false,lb,06/11/2026 00:00:00,12.95,PRIME LINE DISTRIBUTORS,IT - 1014 Lincoln Rd
+"Baked Goods, Bindi Esse Mignon Cookies",1,Baked Goods,false,true,each,06/11/2026 00:00:00,0.42,PRIME LINE DISTRIBUTORS,IT - 1014 Lincoln Rd
+"Baked Goods, Bindi Cookie Bacio Di Dama",1,Baked Goods,false,true,each,06/11/2026 00:00:00,0.42,PRIME LINE DISTRIBUTORS,IT - 1014 Lincoln Rd
+"Produce,  Cherry Tomatoes",1,Produce,false,true,each,06/12/2026 00:00:00,24.8,Excellent Fruit & Produce,IT - 1656 Collins Ave
+"Disposable, SUPP Cutlery Pack",7,Disposable,false,true,pack,06/12/2026 00:00:00,0.09,I Halper Paper and Supplies Inc,IT - 390 Fifth Ave
+"Cleaning Supplies, SUPP 4/CT Multi-Temp Dish Detergent Red",2,Disposable,false,true,each,06/12/2026 00:00:00,28.88,I Halper Paper and Supplies Inc,IT - 390 Fifth Ave
+"Cleaning Supplies, SUPP BLUE Trash Bag",1,Disposable,false,true,each,06/12/2026 00:00:00,0.34,I Halper Paper and Supplies Inc,IT - 390 Fifth Ave
+"Dry Goods, Balsamic Vinegar",2,Dry Goods,true,true,liter,06/24/2026 00:00:00,3.6,SOGNO TOSCANO,IT - 1656 Collins Ave
+"Cleaning Supplies, SUPP Blue Towel",1,Disposable,false,false,each,06/25/2026 00:00:00,0.24,IMPERIAL DADE,IT - 1014 Lincoln Rd
+"Tequila, Espolon Blanco",1,Liquor,false,true,each,06/26/2026 00:00:00,33.37,Southern Glazer,IT - 1014 Lincoln Rd
+"Baked Goods, Glazed Plain Cornetto",3,Baked Goods,false,true,each,06/26/2026 00:00:00,4.95,"Bindi North America, Inc",IT - 390 Fifth Ave
+"Gin, Beefeater",2,Liquor,false,true,each,06/26/2026 00:00:00,27.86,Southern Glazer,IT - 1014 Lincoln Rd
+"Vodka, Aristocrat Royal 80",1,Liquor,false,true,each,06/26/2026 00:00:00,9.45,Southern Glazer,IT - 1014 Lincoln Rd
+"Vodka, Tito's Handmade",4,Liquor,true,true,each,06/26/2026 00:00:00,30.83,Southern Glazer,IT - 1014 Lincoln Rd
+"Liqueur, Limoncello",2,Liquor,true,true,each,06/26/2026 00:00:00,16.5,Southern Glazer,IT - 1014 Lincoln Rd
+"Dry Goods, White Sugar Packet",2,Dry Goods,false,true,each,06/27/2026 00:00:00,0.01,VIANDER INC,IT - 1014 Lincoln Rd
+"Dry Goods, Soy Sauce",3,Food - other,true,true,liter,07/02/2026 00:00:00,1.8,ACE ENDICO,IT - 530 Seventh Ave
+"Baked Goods, Biscoff Cookies",4,Baked Goods,true,true,lb,07/02/2026 00:00:00,8.27,VIANDER INC,IT - 1014 Lincoln Rd
+"Dry Goods, Candied Orange Peel",1,Food - other,false,false,lb,07/02/2026 00:00:00,29.37,ACE ENDICO,IT - 530 Seventh Ave
+"Dry Goods, Black Pepper Whole",3,Food - other,false,true,lb,07/02/2026 00:00:00,10.58,ACE ENDICO,IT - 530 Seventh Ave
+"Dry Goods, Granulated Sugar 50 LB",2,Food - other,true,true,lb,07/02/2026 00:00:00,1.24,ACE ENDICO,IT - 530 Seventh Ave
+"Produce, Oregano",4,Food - other,true,true,lb,07/02/2026 00:00:00,4.75,ACE ENDICO,IT - 530 Seventh Ave
+"Dry Goods, Parsley",3,Dry Goods,true,true,lb,07/02/2026 00:00:00,12.2,VIANDER INC,IT - 1014 Lincoln Rd
+"Dry Goods, Vanilla Extract",5,Dry Goods,true,true,liter,07/02/2026 00:00:00,515.79,Rader Foods,IT - 1014 Lincoln Rd
+"NA Bev, Polara Aranciata Sicilian",2,Soda,false,true,each,07/02/2026 00:00:00,0.89,VIANDER INC,IT - 1656 Collins Ave
+"Produce, Garlic",3,Produce,true,true,lb,07/02/2026 00:00:00,4.04,Excellent Fruit & Produce,IT - 1656 Collins Ave
+"Dry Goods, Sliced Almond",3,Food - other,true,true,lb,07/02/2026 00:00:00,6.78,ACE ENDICO,IT - 530 Seventh Ave
+"NA Bev, American Coffee (TOSTINI)",1,Coffee & Tea,false,true,each,07/02/2026 00:00:00,0.84,VIANDER INC,IT - 1014 Lincoln Rd
+"Dry Goods, Caramel Filling",5,Food - other,true,true,lb,07/02/2026 00:00:00,7.02,ACE ENDICO,IT - 530 Seventh Ave
+"Dry Goods, Cocoa Powder",2,Food - other,false,true,lb,07/02/2026 00:00:00,8.69,ACE ENDICO,IT - 530 Seventh Ave
+"Dry Goods, Powder Sugar",4,Dry Goods,true,true,lb,07/02/2026 00:00:00,1.98,VIANDER INC,IT - 1014 Lincoln Rd
+"Dry Goods, Crushed Red Pepper",2,Dry Goods,false,true,lb,07/02/2026 00:00:00,4.89,VIANDER INC,IT - 1014 Lincoln Rd
+"Baked Goods, Original Biscuit Cookie",1,Food - other,false,true,lb,07/02/2026 00:00:00,9.71,ACE ENDICO,IT - 530 Seventh Ave
+"Dry Goods, Yeast Dry Instant",1,Food - other,false,false,lb,07/02/2026 00:00:00,7.03,ACE ENDICO,IT - 530 Seventh Ave
+"Produce, Fresh limes",3,Produce,false,true,each,07/02/2026 00:00:00,0.33,Excellent Fruit & Produce,IT - 1656 Collins Ave
+"NA Bev, Polara Peach Iced Tea",2,Soda,false,true,each,07/02/2026 00:00:00,1.29,VIANDER INC,IT - 1656 Collins Ave
+"NA Bev, Limone Polara",2,Soda,true,true,each,07/02/2026 00:00:00,1.29,VIANDER INC,IT - 1656 Collins Ave
+"Baked Goods, BINDI BOMBOLONI PLAIN",1,Dry Goods,false,true,lb,07/06/2026 00:00:00,12.5,PRIME LINE DISTRIBUTORS,IT - 1014 Lincoln Rd
+"Dry Goods, Truffle Sauce",2,Dry Goods,true,true,lb,07/07/2026 00:00:00,14.74,TRUFFLE LADY LLC,IT - 1656 Collins Ave
+"Disposables, SUPP Dessert Cup Clear",1,Disposable,false,true,each,07/08/2026 00:00:00,0.45,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Disposable, Insert Cup",1,Disposable,false,true,each,07/08/2026 00:00:00,0.09,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Cleaning Supplies, SUPP 5GAL Dish Multi-Temp Detergent White",1,Disposable,false,true,each,07/08/2026 00:00:00,16.63,I Halper Paper and Supplies Inc,IT - 390 Fifth Ave
+"Cleaning Supplies, Rational Rinse Tabs Green",1,Disposable,false,true,each,07/08/2026 00:00:00,1.38,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Disposables, VB Lid Cup 12 OZ Slot",2,Disposable,false,true,each,07/08/2026 00:00:00,0.04,I Halper Paper and Supplies Inc,IT - 390 Fifth Ave
+"Cleaning Supplies, SUPP Solid Silversoak",2,Disposable,false,true,each,07/08/2026 00:00:00,0.01,I Halper Paper and Supplies Inc,IT - 390 Fifth Ave
+"Disposable, Lid for 1/2 Steam Pan",1,Disposable,false,true,each,07/08/2026 00:00:00,0.33,I Halper Paper and Supplies Inc,IT - 390 Fifth Ave
+"Disposable, Pan Aluminum Full Medium",1,Disposable,false,true,each,07/08/2026 00:00:00,1.54,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Disposable, Wood Coffee Stirrer",2,Disposable,false,true,pack,07/08/2026 00:00:00,0.03,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Cleaning Supplies, SUPP Hand Soap Foam Pink",1,Disposable,false,false,each,07/08/2026 00:00:00,12.77,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Disposable, SecureIt Label Red",1,Disposable,false,true,each,07/08/2026 00:00:00,0.07,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Cleaning Supplies, SUPP 5GAL Dish Enzyme Digester",2,Disposable,false,true,each,07/08/2026 00:00:00,99.95,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Disposable, Squeeze Bottle 12 OZ",1,Disposable,false,true,each,07/08/2026 00:00:00,1.66,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Cleaning Supplies, Descaler",2,Disposable,false,true,each,07/08/2026 00:00:00,18.74,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Gen Expenses, Copy Paper 8.5x11",1,Disposable,false,true,each,07/08/2026 00:00:00,0.01,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Cleaning Supplies, SUPP 2/CT #12 Glass Cleaner",2,Disposable,false,true,gal,07/08/2026 00:00:00,6.24,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Cleaning Supplies, SUPP Delimer Cleaner",1,Disposable,false,true,each,07/08/2026 00:00:00,18.74,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Cleaning Supplies, Rational Oven Cleaner Tabs",1,Disposable,false,true,each,07/08/2026 00:00:00,1.42,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Cleaning Supplies, Sponge Yellow/Green",2,Disposable,false,true,pack,07/08/2026 00:00:00,0.77,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Disposable, POS Printer Ribbon Epson",1,Disposable,false,true,each,07/08/2026 00:00:00,2,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Cleaning Supplies, SUPP Mop Blue",1,Disposable,false,true,each,07/08/2026 00:00:00,6.5,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Disposable, SUPP Coffee Filter",1,Disposable,false,true,each,07/08/2026 00:00:00,0.03,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Cleaning Supplies, SUPP Black Gloves XL Size",1,Disposable,false,true,each,07/08/2026 00:00:00,0.05,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Cleaning Supplies, SUPP 2/CT #10 Heavy Duty Degreaser",1,Disposable,false,true,each,07/08/2026 00:00:00,32.38,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Cleaning Supplies, SUPP 4/CT White Sanitizer",2,Disposable,false,true,each,07/08/2026 00:00:00,16.4,I Halper Paper and Supplies Inc,IT - 390 Fifth Ave
+"Disposable, Squeeze Bottle 24 OZ",1,Disposable,false,true,each,07/08/2026 00:00:00,13.95,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Disposables, SUPP Dust Pans",1,Disposable,false,true,each,07/08/2026 00:00:00,18.25,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Disposable, Foil Roll",1,Disposable,false,true,each,07/08/2026 00:00:00,31.95,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Disposable, Lid for Full Steam Pan",1,Disposable,false,true,each,07/08/2026 00:00:00,0.73,I Halper Paper and Supplies Inc,IT - 390 Fifth Ave
+"Disposable, Catering Box Half",1,Disposable,false,true,each,07/08/2026 00:00:00,1.8,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Disposable, SUPP Plastic Cup 9oz",5,Disposable,false,true,pack,07/09/2026 00:00:00,0.09,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Cleaning Supplies, SUPP Hand Soap Foam",2,Disposable,false,true,each,07/09/2026 00:00:00,13.33,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Cleaning Supplies, VB cup cold 9oz squat pet",2,Disposable,false,true,pack,07/09/2026 00:00:00,0.06,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Cleaning Supplies, SUPP 4/CT Red Dish Detergent",1,Disposable,false,true,each,07/09/2026 00:00:00,22.49,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Disposable, Pink Lotion Foam Hand Soap",1,Disposable,false,true,each,07/09/2026 00:00:00,5.75,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Liqueur, Aperol Aperitivo",2,Liquor,false,true,each,07/10/2026 00:00:00,26.35,Southern Glazer,IT - 1014 Lincoln Rd
+"White Wine, La Vis Chardonnay Trentino",4,Wine,true,true,each,07/10/2026 00:00:00,10,Southern Glazer,IT - 1014 Lincoln Rd
+"White Wine, St. Pauls Sauvignon",2,Wine,true,true,each,07/10/2026 00:00:00,13.75,Southern Glazer,IT - 1014 Lincoln Rd
+"Liqueur, Campari Aperitivo",2,Liquor,false,true,each,07/10/2026 00:00:00,41.96,Southern Glazer,IT - 1014 Lincoln Rd
+"White Wine, Canaletto Pinot Grigio",2,Wine,true,true,each,07/10/2026 00:00:00,7.2,Southern Glazer,IT - 1014 Lincoln Rd
+"Wine White, Bennati Pinot Grigio Friuli",3,Wine,true,true,each,07/10/2026 00:00:00,16.5,Southern Glazer,IT - 1014 Lincoln Rd
+"Whiskey, Johnnie Walker Black Label",5,Liquor,true,true,each,07/10/2026 00:00:00,52.7,Southern Glazer,IT - 1014 Lincoln Rd
+"Red Wine, Cafaggio Chianti Classico Single Estate",3,Wine,true,true,each,07/10/2026 00:00:00,13.25,Southern Glazer,IT - 1014 Lincoln Rd
+"Wine Red, San Marzano Tramari Rose",4,Wine,true,true,each,07/10/2026 00:00:00,11,Southern Glazer,IT - 1014 Lincoln Rd
+"Disposable, Clear Lid for 12- 24oz Cup",5,Disposable,false,true,each,07/12/2026 00:00:00,0.07,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Disposables, Paper Towel",1,Disposable,false,true,each,07/12/2026 00:00:00,6.16,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Disposable, Plastic Lid For Small Cup 1.5oz",1,Disposable,false,true,each,07/12/2026 00:00:00,0.01,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Disposable, Fiber Bowl 32oz",3,Disposable,false,true,each,07/12/2026 00:00:00,0.3,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Cleaning Supplies, SUPP Black Trash Bag",6,Disposable,false,true,each,07/12/2026 00:00:00,0.25,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Disposable, Liner Pan 16.375X24",2,Disposable,false,true,each,07/12/2026 00:00:00,0.09,I Halper Paper and Supplies Inc,IT - 1656 Collins Ave
+"Produce, Fresh Ginger",10,Produce,true,true,lb,07/13/2026 00:00:00,4.1,Excellent Fruit & Produce,IT - 1014 Lincoln Rd
+"Cleaning Supplies, Blue Towel",1,Disposable,false,true,each,07/13/2026 00:00:00,0.29,I Halper Paper and Supplies Inc,IT - 1014 Lincoln Rd
+"Dry Goods, Raspberry Jam",3,Dry Goods,false,false,lb,07/13/2026 00:00:00,6.55,Rader Foods,IT - 1656 Collins Ave
+"Dry Goods, Apricot Jam",4,Dry Goods,true,true,lb,07/13/2026 00:00:00,5.89,Rader Foods,IT - 1656 Collins Ave
+"Dry Goods, Balsamic Glaze",3,Dry Goods,false,true,liter,07/13/2026 00:00:00,13.33,SOGNO TOSCANO,IT - 530 Seventh Ave
+"Cleaning Supplies, SUPP Red Multi Temp Detergent 5 Gal",1,Disposable,false,true,each,07/13/2026 00:00:00,15.75,I Halper Paper and Supplies Inc,IT - 1014 Lincoln Rd
+"NA Bev, Syrup Hazelnut",2,NA Beverage - Other,false,true,liter,07/13/2026 00:00:00,11.65,PRIME LINE DISTRIBUTORS,IT - 1656 Collins Ave
+"Protein, Mortadella Pistachio Ferrarini",1,Meat/ Protein,false,false,lb,07/13/2026 00:00:00,0.57,VIANDER INC,IT - 1656 Collins Ave
+"Disposables, SUPP Straw",4,Disposable,false,true,pack,07/13/2026 00:00:00,0.02,I Halper Paper and Supplies Inc,IT - 1014 Lincoln Rd
+"Protein, Prosciutto Crudo Mattonella",4,Meat/ Protein,true,true,lb,07/13/2026 00:00:00,9.95,SOGNO TOSCANO,IT - 390 Fifth Ave
+"Cleaning Supplies, SUPP 5GAL Dish Rinse Low-Temp blue",2,Disposable,false,true,each,07/13/2026 00:00:00,65.15,I Halper Paper and Supplies Inc,IT - 1014 Lincoln Rd
+"Dairy, Pastry Cream",2,Dry Goods,false,true,lb,07/13/2026 00:00:00,3.63,Rader Foods,IT - 1656 Collins Ave
+"Produce, Medium Red Onion",4,Food - other,false,true,lb,07/13/2026 00:00:00,0.78,ACE ENDICO,IT - 390 Fifth Ave
+"Disposable, Toilet Paper",3,Disposable,false,true,each,07/13/2026 00:00:00,2.16,I Halper Paper and Supplies Inc,IT - 1014 Lincoln Rd
+"Baked Goods, Cannoli Large",5,Dry Goods,true,true,each,07/13/2026 00:00:00,0.6,SOGNO TOSCANO,IT - 530 Seventh Ave
+"Dry Goods, Sesame Black",1,Food - other,true,false,lb,07/13/2026 00:00:00,0.85,ACE ENDICO,IT - 390 Fifth Ave
+"NA Bev, Lipomata Soda",1,Food - other,false,false,each,07/13/2026 00:00:00,1.11,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, Hot Chocolate Mix",4,Coffee & Tea,true,true,each,07/13/2026 00:00:00,1.73,PRIME LINE DISTRIBUTORS,IT - 1656 Collins Ave
+"Cleaning Supplies, VB Pan Liner Quilon 25LB",1,Disposable,false,true,each,07/13/2026 00:00:00,0.06,I Halper Paper and Supplies Inc,IT - 1014 Lincoln Rd
+"Baked Goods, Bindi Cookie Dama",2,Baked Goods,false,true,each,07/13/2026 00:00:00,0.68,PRIME LINE DISTRIBUTORS,IT - 1656 Collins Ave
+"Dry Goods, Matcha Powder",3,NA Beverage - Other,true,true,lb,07/13/2026 00:00:00,29.94,PRIME LINE DISTRIBUTORS,IT - 1656 Collins Ave
+"Wine White, Lavis 23 Pinot Grigio",3,Wine,false,true,each,07/14/2026 00:00:00,11,Ms walker,IT - 390 Fifth Ave
+"Produce, Red Bell Pepper",6,Produce,true,true,lb,07/14/2026 00:00:00,1.41,Excellent Fruit & Produce,IT - 1656 Collins Ave
+"Disposable, Coffee Lid For 4oz Hot Cups",3,Disposable,false,true,pack,07/14/2026 00:00:00,0.09,IMPERIAL DADE,IT - 1656 Collins Ave
+"Sparkling Wine, La Gioiosa Frizzante Bianco Prosecco",3,Wine,false,true,each,07/14/2026 00:00:00,6.67,M.S WALKER,IT - 530 Seventh Ave
+"White Wine, La Giosa Il Giallo Blanco",1,Wine,false,false,each,07/14/2026 00:00:00,6.67,Ms walker,IT - 390 Fifth Ave
+"Wine White, Sauvignon Blanc Cantina Lavis",1,Wine,false,true,each,07/14/2026 00:00:00,10.33,Ms walker,IT - 390 Fifth Ave
+"Disposable, SUPP Wax Sheets",2,Disposable,true,false,each,07/14/2026 00:00:00,0.01,IMPERIAL DADE,IT - 1656 Collins Ave
+"Dairy, Provolone Cheese",7,Dairy,true,true,lb,07/15/2026 00:00:00,0.67,SOGNO TOSCANO,IT - 390 Fifth Ave
+"NA Bev, Sparkling Water BIG",1,Water,false,true,each,07/16/2026 00:00:00,1.29,VIANDER INC,IT - 1014 Lincoln Rd
+"Produce, Radish Red",7,Produce,true,true,lb,07/16/2026 00:00:00,3.2,Excellent Fruit & Produce,IT - 1014 Lincoln Rd
+"Baked Goods, Forno D’Asolo Cornetto Plain",2,Baked Goods,false,true,each,07/16/2026 00:00:00,1.01,PRIME LINE DISTRIBUTORS,IT - 1014 Lincoln Rd
+"NA Bev, Bernardo Natural TV",3,Water,false,false,each,07/16/2026 00:00:00,1.29,VIANDER INC,IT - 1014 Lincoln Rd
+"Dry Goods, Scrocchiarella XL",1,Dry Goods,false,false,each,07/16/2026 00:00:00,50,VIANDER INC,IT - 1014 Lincoln Rd
+"Dry Goods, Creamy Peanut Butter",3,Dry Goods,true,true,lb,07/16/2026 00:00:00,2.8,VIANDER INC,IT - 1014 Lincoln Rd
+"Dry Goods, Tomato Paste",6,Dry Goods,true,true,lb,07/16/2026 00:00:00,1.87,VIANDER INC,IT - 1014 Lincoln Rd
+"Dry Goods, Pizza Crust Gluten free 24|11.5""",2,Dry Goods,false,true,each,07/16/2026 00:00:00,4.96,VIANDER INC,IT - 1014 Lincoln Rd
+"Baked Goods, Scrocchiarella Pizza",5,Baked Goods,false,true,each,07/16/2026 00:00:00,6.33,VIANDER INC,IT - 1014 Lincoln Rd
+"Dry Goods, Nutella",3,Dry Goods,true,true,lb,07/16/2026 00:00:00,2.22,VIANDER INC,IT - 1014 Lincoln Rd
+"Produce, Yellow Peppers",1,Produce,false,true,each,07/16/2026 00:00:00,5.68,Excellent Fruit & Produce,IT - 1014 Lincoln Rd
+"Produce, Eggplant",7,Produce,true,true,lb,07/16/2026 00:00:00,1.24,Excellent Fruit & Produce,IT - 1014 Lincoln Rd
+"Beer, Draft Corona Extra Keg",2,Beer - Draft,true,true,liter,07/16/2026 00:00:00,3.78,Gold Coast Beverage  LLC,IT - 1656 Collins Ave
+"Beer, Draft Lagunitas IPA Keg",2,Beer - Other,true,true,liter,07/16/2026 00:00:00,4.36,Gold Coast Beverage  LLC,IT - 1656 Collins Ave
+"Beer, Peroni",4,Beer - Other,true,true,each,07/16/2026 00:00:00,1.57,Gold Coast Beverage  LLC,IT - 1656 Collins Ave
+"Keg Deposit, Empty Keg",1,Beer - Other,false,false,liter,07/16/2026 00:00:00,0.02,Gold Coast Beverage  LLC,IT - 1656 Collins Ave
+"Dairy, Ricotta Cheese",3,Dairy,true,true,lb,07/16/2026 00:00:00,2.4,SOGNO TOSCANO,IT - 1014 Lincoln Rd
+"Produce, Seedless Watermelon",2,Food - other,true,true,lb,07/17/2026 00:00:00,0.92,ACE ENDICO,IT - 390 Fifth Ave
+"Baked Goods, Sliced Brioche Bun",1,Baked Goods,true,true,each,07/17/2026 00:00:00,0.96,VIANDER INC,IT - 1656 Collins Ave
+"NA Bev, Aranciata Soda",2,Food - other,true,true,each,07/17/2026 00:00:00,1.18,ACE ENDICO,IT - 530 Seventh Ave
+"Produce, Mint",7,Food - other,true,true,lb,07/17/2026 00:00:00,7.5,ACE ENDICO,IT - 390 Fifth Ave
+"Liquor, Bellini Mix",1,Liquor,false,true,each,07/17/2026 00:00:00,12.5,Southern Glazer,IT - 1014 Lincoln Rd
+"Liquor, Mimosa Mix",1,Liquor,false,true,each,07/17/2026 00:00:00,12.5,Southern Glazer,IT - 1014 Lincoln Rd
+"Dry, Flour 00 Americana",1,Food - other,false,true,lb,07/17/2026 00:00:00,0.97,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, Graham Cracker Crumb",3,Dry Goods,true,true,lb,07/17/2026 00:00:00,4.23,VIANDER INC,IT - 1656 Collins Ave
+"Produce, Blueberry",5,Food - other,true,true,lb,07/17/2026 00:00:00,14.67,ACE ENDICO,IT - 390 Fifth Ave
+"Produce, Mushroom White",3,Food - other,false,true,lb,07/17/2026 00:00:00,2.8,ACE ENDICO,IT - 530 Seventh Ave
+"Produce, Kiwi",6,Food - other,true,true,each,07/17/2026 00:00:00,1.04,ACE ENDICO,IT - 530 Seventh Ave
+"Protein, Biscotto Prosciutto",2,Food - other,true,true,lb,07/17/2026 00:00:00,7,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, Ground Black Pepper",2,Dry Goods,true,true,lb,07/17/2026 00:00:00,1.83,VIANDER INC,IT - 1656 Collins Ave
+"NA Bev, Mole Cola Classic",4,Soda,false,true,pack,07/17/2026 00:00:00,1.63,PRIME LINE DISTRIBUTORS,IT - 1656 Collins Ave
+"NA Bev, Blood Orange Soda",2,Food - other,false,false,liter,07/17/2026 00:00:00,7.05,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, Pizza Flour",7,Dry Goods,true,true,lb,07/17/2026 00:00:00,0.76,VIANDER INC,IT - 1656 Collins Ave
+"Produce, Lemon Yellow",6,Produce,true,true,each,07/17/2026 00:00:00,0.63,Excellent Fruit & Produce,IT - 1656 Collins Ave
+Pint Grape Tomatoes,1,Produce,false,false,liter,07/17/2026 00:00:00,4.92,Excellent Fruit & Produce,IT - 1656 Collins Ave
+"NA Bevs, Espresso Bean",1,Food - other,false,true,lb,07/17/2026 00:00:00,7.24,ACE ENDICO,IT - 390 Fifth Ave
+"NA Bev, Molecola SF",4,Food - other,true,true,each,07/17/2026 00:00:00,1.29,ACE ENDICO,IT - 390 Fifth Ave
+"Baked Goods, Sandwich Crust",1,Food - other,false,true,each,07/17/2026 00:00:00,4.4,ACE ENDICO,IT - 530 Seventh Ave
+"Protein, Prosciutto Balls",1,Food - other,false,true,lb,07/18/2026 00:00:00,9.85,ACE ENDICO,IT - 390 Fifth Ave
+"Dairy, Almond Milk",3,Dairy,true,true,liter,07/18/2026 00:00:00,3.17,Driscoll Foods,IT - 390 Fifth Ave
+"Produce, Green lime",5,Produce,false,true,each,07/18/2026 00:00:00,0.13,Excellent Fruit & Produce,IT - 1656 Collins Ave
+"Dairy, Mascarpone Cheese",4,Dairy,true,true,lb,07/18/2026 00:00:00,5.5,SOGNO TOSCANO,IT - 1656 Collins Ave
+"Protein, Sopressata Calabrese",2,Food - other,false,true,lb,07/18/2026 00:00:00,8.95,ACE ENDICO,IT - 390 Fifth Ave
+"Baked Goods, Ladyfingers",1,Dry Goods,false,true,lb,07/18/2026 00:00:00,2.99,SOGNO TOSCANO,IT - 1656 Collins Ave
+"Baked Good, Blueberry Danish",2,Baked Goods,false,false,each,07/19/2026 00:00:00,1.5,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"Baked Goods, Guava Danish",1,Baked Goods,false,false,each,07/19/2026 00:00:00,1.5,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"Produce, Danish Pear",1,Baked Goods,false,false,each,07/19/2026 00:00:00,1.5,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"Baked Goods, Apricot Danish",1,Baked Goods,false,false,each,07/19/2026 00:00:00,1.5,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"Produce, Banana",8,Produce,true,true,lb,07/20/2026 00:00:00,1.4,Driscoll Foods,IT - 530 Seventh Ave
+"Dry Goods, Honey",4,Dry Goods,true,true,lb,07/20/2026 00:00:00,0.33,VIANDER INC,IT - 1656 Collins Ave
+"Protein, Proscuitto Cotto Martelli",3,Meat/ Protein,true,true,lb,07/20/2026 00:00:00,0.17,VIANDER INC,IT - 1656 Collins Ave
+"Protein, Raw Salmon",4,Seafood,false,true,lb,07/20/2026 00:00:00,4.56,VIANDER INC,IT - 1656 Collins Ave
+"Dry Goods, Cherry Tomatoes Agromonte",3,Produce,false,true,lb,07/20/2026 00:00:00,3.18,VIANDER INC,IT - 1656 Collins Ave
+"Dry Goods, Caesar Salad Dressing",2,Dry Goods,false,true,gal,07/20/2026 00:00:00,6.5,VIANDER INC,IT - 1656 Collins Ave
+"Dairy, Oat Milk",4,Dairy,false,true,qt,07/20/2026 00:00:00,4.65,VIANDER INC,IT - 1656 Collins Ave
+"Protein, Smoked Salmon",1,Seafood,true,true,lb,07/20/2026 00:00:00,7.4,VIANDER INC,IT - 1656 Collins Ave
+"Protein, Breast Chicken",10,Meat/ Protein,true,true,lb,07/20/2026 00:00:00,2.86,VIANDER INC,IT - 1656 Collins Ave
+"Dairy, Whole Milk",5,Dairy,true,true,liter,07/20/2026 00:00:00,1.59,VIANDER INC,IT - 1656 Collins Ave
+"Protein, Bacon Layout Hickory 14/18",1,Meat/ Protein,false,false,lb,07/20/2026 00:00:00,5.27,VIANDER INC,IT - 1656 Collins Ave
+"NA Bev, Polara Limonata Sicilian Soda",3,Soda,true,true,each,07/20/2026 00:00:00,1.46,VIANDER INC,IT - 1656 Collins Ave
+"Dry Goods, Croutons Butter and Garlic",2,Dry Goods,false,true,lb,07/20/2026 00:00:00,3.69,VIANDER INC,IT - 1656 Collins Ave
+"NA Bev, Aranciata Rossa",3,Soda,false,true,each,07/20/2026 00:00:00,0.89,VIANDER INC,IT - 1656 Collins Ave
+"Protein, Spianata Calabrese",4,Meat/ Protein,true,true,lb,07/20/2026 00:00:00,1.62,VIANDER INC,IT - 1656 Collins Ave
+"Dairy, Almond Milk Barista Blend",1,Dairy,false,true,qt,07/20/2026 00:00:00,4,VIANDER INC,IT - 1656 Collins Ave
+"Dairy, Plain Yogurt",4,Dairy,true,true,lb,07/20/2026 00:00:00,3.73,VIANDER INC,IT - 1656 Collins Ave
+"Protein, Turkey Breast",3,Meat/ Protein,true,true,lb,07/20/2026 00:00:00,0.43,VIANDER INC,IT - 1656 Collins Ave
+"Protein, Eggs",8,Meat/ Protein,true,true,each,07/20/2026 00:00:00,0.23,VIANDER INC,IT - 1656 Collins Ave
+"Produce, Green Apple",4,Produce,true,true,each,07/20/2026 00:00:00,0.6,Excellent Fruit & Produce,IT - 1656 Collins Ave
+"Baked Goods, Plain Butter Croissant",3,Baked Goods,false,true,each,07/20/2026 00:00:00,1.08,"Bindi North America, Inc",IT - 390 Fifth Ave
+"Baked Goods, Bomboloni Plain",2,Dry Goods,true,true,each,07/20/2026 00:00:00,1.21,"Bindi North America, Inc",IT - 390 Fifth Ave
+"Produce, Pineapple",4,Produce,true,true,each,07/20/2026 00:00:00,3.18,Excellent Fruit & Produce,IT - 1656 Collins Ave
+"Baked Goods, Large Croissant",2,Baked Goods,true,true,each,07/20/2026 00:00:00,1.75,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"Baked Goods, Chocolate Chip Muffin",2,Baked Goods,false,true,each,07/20/2026 00:00:00,1.5,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"Baked Goods, Apple Cinnamon Danish",1,Baked Goods,false,false,each,07/20/2026 00:00:00,1.5,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"Baked Goods, Plain Brioche Bun",3,Baked Goods,true,true,each,07/20/2026 00:00:00,0.9,La Provence Miami - BILLPAY,IT - 1656 Collins Ave
+"Produce, Cabbage Red",8,Food - other,true,true,lb,07/20/2026 00:00:00,2,ACE ENDICO,IT - 530 Seventh Ave
+"Produce, Edamame",2,Food - other,true,true,lb,07/20/2026 00:00:00,2.48,ACE ENDICO,IT - 530 Seventh Ave
+"Dry Goods, Pistachio Chopped",6,Food - other,true,true,lb,07/20/2026 00:00:00,19.72,ACE ENDICO,IT - 390 Fifth Ave
+"Produce, Green Kale",5,Food - other,true,true,each,07/20/2026 00:00:00,1.17,ACE ENDICO,IT - 390 Fifth Ave
+"NA Bev, Rishi Earl Grey",2,Food - other,false,false,each,07/20/2026 00:00:00,0.27,ACE ENDICO,IT - 390 Fifth Ave
+"Baked Goods, Pre-baked Crust Pizza",1,Food - other,true,true,each,07/20/2026 00:00:00,5.5,ACE ENDICO,IT - 530 Seventh Ave
+"Produce, Avocado",10,Food - other,true,true,each,07/20/2026 00:00:00,1.88,ACE ENDICO,IT - 530 Seventh Ave
+"Dairy, Unsalted Butter",4,Food - other,true,true,lb,07/20/2026 00:00:00,0.1,ACE ENDICO,IT - 390 Fifth Ave
+"Produce, Strawberry",5,Food - other,true,true,lb,07/20/2026 00:00:00,3.5,ACE ENDICO,IT - 530 Seventh Ave
+"Frozen, GF 12"" Pizza Crust",4,Food - other,false,true,each,07/20/2026 00:00:00,5.69,ACE ENDICO,IT - 530 Seventh Ave
+"Protein, Seafood Salmon Chum",1,Food - other,false,false,lb,07/20/2026 00:00:00,7.8,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, Sugar Confectioners",1,Food - other,true,false,lb,07/20/2026 00:00:00,0.21,ACE ENDICO,IT - 390 Fifth Ave
+"Dairy, Sliced Mozzarella Cheese",5,Food - other,true,true,lb,07/20/2026 00:00:00,5.42,ACE ENDICO,IT - 530 Seventh Ave
+"Dry Goods, Cherry Paste Sauce",1,Food - other,false,false,lb,07/20/2026 00:00:00,2.38,ACE ENDICO,IT - 530 Seventh Ave
+"Dairy, Grated Parmesan Cheese",9,Food - other,true,true,lb,07/20/2026 00:00:00,5.1,ACE ENDICO,IT - 530 Seventh Ave
+"Disposables, SUPP Film Roll",6,Disposable,false,true,each,07/20/2026 00:00:00,24.34,ACE ENDICO,IT - 390 Fifth Ave
+"Protein, Ground Beef",4,Food - other,true,true,lb,07/20/2026 00:00:00,5.34,ACE ENDICO,IT - 390 Fifth Ave
+"Protein, Mortadella With Pistacchio",2,Food - other,true,true,lb,07/20/2026 00:00:00,5.45,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, Granola Oats and Honey",2,Food - other,true,true,lb,07/20/2026 00:00:00,7.11,ACE ENDICO,IT - 530 Seventh Ave
+"Dry Goods, Paste Almond 60%",3,Food - other,true,true,lb,07/20/2026 00:00:00,8.88,ACE ENDICO,IT - 390 Fifth Ave
+"Baked Goods, Brioche Bun 3.5""",1,Food - other,false,true,each,07/20/2026 00:00:00,0.75,ACE ENDICO,IT - 530 Seventh Ave
+"Dairy, Heavy Cream 40%",4,Food - other,true,true,liter,07/20/2026 00:00:00,6.87,ACE ENDICO,IT - 530 Seventh Ave
+"Dry Goods, Lasagna Granero Pasta",3,Food - other,false,true,lb,07/20/2026 00:00:00,3.03,ACE ENDICO,IT - 390 Fifth Ave
+"NA Bev, Sparkling Water",4,Food - other,true,true,each,07/20/2026 00:00:00,0.33,ACE ENDICO,IT - 530 Seventh Ave
+"Dairy, Shredded Mozzarella Cheese",5,Food - other,true,true,lb,07/20/2026 00:00:00,3.2,ACE ENDICO,IT - 530 Seventh Ave
+"NA Bev, Peach Iced Tea",2,Food - other,false,true,each,07/20/2026 00:00:00,1.21,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, Semolina Flour",4,Food - other,true,true,kg,07/20/2026 00:00:00,1.3,ACE ENDICO,IT - 390 Fifth Ave
+"Produce, Fresh Basil",6,Food - other,true,true,lb,07/20/2026 00:00:00,8.38,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, Sea Salt Coarse",2,Food - other,true,true,lb,07/20/2026 00:00:00,0.99,ACE ENDICO,IT - 530 Seventh Ave
+"Protein, Bacon Shingle",1,Food - other,true,true,lb,07/20/2026 00:00:00,4.66,ACE ENDICO,IT - 390 Fifth Ave
+"NA Bev, Lemon Iced Tea",2,Food - other,false,true,each,07/20/2026 00:00:00,1.21,ACE ENDICO,IT - 390 Fifth Ave
+"Baked Goods, Sliced MultiGrain Bread",2,Food - other,false,true,each,07/20/2026 00:00:00,13.21,ACE ENDICO,IT - 530 Seventh Ave
+"Dry Goods, Fine Sea Salt",1,Food - other,true,false,lb,07/20/2026 00:00:00,0.64,ACE ENDICO,IT - 390 Fifth Ave
+"Produce, Cherry Tomato",6,Food - other,true,true,liter,07/20/2026 00:00:00,7.57,ACE ENDICO,IT - 390 Fifth Ave
+"Dry Goods, Olive oil EVOO",3,Dry Goods,true,true,liter,07/20/2026 00:00:00,31.25,SOGNO TOSCANO,IT - 530 Seventh Ave
+"Dairy, Ovoline Cheese",2,Dairy,false,true,lb,07/20/2026 00:00:00,4.4,SOGNO TOSCANO,IT - 530 Seventh Ave
+"Dry Goods, Basil Pesto w/ Pine Nuts",3,Dry Goods,true,false,lb,07/20/2026 00:00:00,10.67,SOGNO TOSCANO,IT - 530 Seventh Ave
+"Dairy, Stracciatella Cheese",6,Dairy,true,true,lb,07/20/2026 00:00:00,7.8,SOGNO TOSCANO,IT - 530 Seventh Ave
+"Disposables, Paper Pastry Bag",3,Disposable,false,true,each,07/20/2026 00:00:00,0.2,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Cleaning Supplies, GREEN DISH DETERGENT",1,Disposable,false,true,each,07/20/2026 00:00:00,11.35,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Cleaning Supplies, Pure Bright Bleach 6%",1,Disposable,false,true,each,07/20/2026 00:00:00,3.92,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Disposables, Thermal Paper",4,Disposable,false,true,each,07/20/2026 00:00:00,1.4,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Cleaning Supplies, Floor Cleaner Lemon",1,Disposable,false,true,liter,07/20/2026 00:00:00,2.67,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Cleaning Supplies, Oven Grill Cleaner",1,Disposable,false,true,each,07/20/2026 00:00:00,7.14,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Produce, Baby Arugula",13,Produce,true,true,lb,07/20/2026 00:00:00,7.66,Driscoll Foods,IT - 530 Seventh Ave
+"Produce, Delmonte Pineapple",5,Produce,true,true,each,07/20/2026 00:00:00,5,Driscoll Foods,IT - 530 Seventh Ave
+"Disposable, Coffee Lid for 12oz CUP HOT",4,Disposable,false,true,each,07/20/2026 00:00:00,0.03,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Disposables, SUPP White Towel",2,Disposable,false,true,each,07/20/2026 00:00:00,0.3,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Cleaning Supplies, SUPP Black Gloves L Size",3,Disposable,false,true,each,07/20/2026 00:00:00,0.05,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Produce, Tomato 5x6",10,Produce,true,true,lb,07/20/2026 00:00:00,1.48,Driscoll Foods,IT - 530 Seventh Ave
+"Cleaning Supplies, VB Lid Hot Cup Dome WHT 92Mm",1,Disposable,false,false,each,07/20/2026 00:00:00,0.04,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Disposables, SUPP Paper Towel",4,Disposable,false,true,each,07/20/2026 00:00:00,4.25,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Produce, Mushroom",4,Produce,true,true,lb,07/20/2026 00:00:00,2.4,Driscoll Foods,IT - 530 Seventh Ave
+"Dairy, Shaved Parmesan Cheese",5,Dairy,true,true,lb,07/20/2026 00:00:00,0.24,Driscoll Foods,IT - 530 Seventh Ave
+"Disposable, Pizza Box LOGO 12in",1,Disposable,false,true,each,07/20/2026 00:00:00,0.16,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Produce, Fancy Orange",4,Produce,true,true,each,07/20/2026 00:00:00,0.61,Driscoll Foods,IT - 530 Seventh Ave
+"Disposables, SUPP Napkin",6,Disposable,false,true,pack,07/20/2026 00:00:00,0.01,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Disposable, Clear Dome Lid 24-32",1,Disposable,false,true,each,07/20/2026 00:00:00,0.51,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Cleaning Supplies, SUPP Black Gloves M Size",4,Disposable,false,true,pack,07/20/2026 00:00:00,0.05,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Produce, Mozzarella Vegan",1,Dairy,false,false,each,07/20/2026 00:00:00,4.9,VIANDER INC,IT - 1656 Collins Ave
+"Produce, Lettuce Romaine",11,Produce,true,true,each,07/20/2026 00:00:00,1.33,Driscoll Foods,IT - 530 Seventh Ave
+"Disposables, SUPP Take-Out Boxes",5,Disposable,false,true,pack,07/20/2026 00:00:00,0.2,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Produce, Celery",7,Produce,true,true,each,07/20/2026 00:00:00,3.19,Driscoll Foods,IT - 530 Seventh Ave
+"Produce, Yellow Pepper",3,Produce,true,true,lb,07/20/2026 00:00:00,3.73,Driscoll Foods,IT - 530 Seventh Ave
+"Disposable, 1.5 oz Souffle Portion Cup",5,Disposable,false,true,pack,07/20/2026 00:00:00,0.01,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Cleaning Supplies, VB Kit Cuttery MED-WT 4PC",1,Disposable,false,true,each,07/20/2026 00:00:00,0.22,I Halper Paper and Supplies Inc,IT - 530 Seventh Ave
+"Produce, Orange",5,Produce,true,true,each,07/20/2026 00:00:00,0.55,TROPICAL FAIR PRICE CORP.,IT - 1656 Collins Ave
+"NA Bev, Still Mineral Water",4,Water,true,true,each,07/20/2026 00:00:00,0.42,VIANDER INC,IT - 1656 Collins Ave
+"Dry Goods, Crushed Tomato",3,Dry Goods,false,true,lb,07/20/2026 00:00:00,1,VIANDER INC,IT - 1656 Collins Ave
+"Liqueur, TripleSec",0,,false,true,each,,0,,
+"Baked Goods, Bindi Cookie Fragola",0,,false,false,each,,0,,
+"Disposables, SUPP Small Brown Paper Kraft",0,,false,false,pack,,0,,
+"Disposable, Low Temp 10% Dish Machine",0,,false,false,liter,,0,,
+"Cleaning Supplies, VB Food Sanitizer",0,,false,false,each,,0,,
+"Dry Goods, Fine Salt Sea",0,,false,false,each,,0,,
+"Dry Goods, PARSLEY 5 LBS BULK BAG",0,,true,false,each,,0,,
+"Baked Goods, Large Westin Multigrain Thick",0,,false,false,each,,0,,
+"Dry Goods, Black Pepper Butcher",0,,false,false,each,,0,,
+"Produce, Raspberry Jam",0,,false,true,each,,0,,
+"Produce, Raspberry Fresh",0,,false,false,lb,,0,,
+"Produce, Kiwi DUPE",0,,true,true,lb,,0,,
+"Disposable, Clear Dome Lid 24-32oz",0,,false,false,each,,0,,
+32 OZ. HEAVY PLASTIC DELI COMBOS (240)-26310,0,,false,false,each,,0,,
+"Cleaning Supplies, VB Gloves Nitrile LG BLK GP",0,,false,false,each,,0,,
+Salad Bowl,0,,false,false,each,,0,,
+"Protein, Bresaola Bernina",0,,false,false,lb,,0,,
+"Disposable,  Wood Coffee Stirrer",0,,false,false,pack,,0,,
+"NA BEV, Coffee Pods Tostini",0,,false,false,each,,0,,
+"Disposable, Cup cold 9oz",0,,false,false,lb,,0,,
+"Disposable, White Dinner Napkin Case",0,,false,false,each,,0,,
+"Disposable, Small Plastic Cup 2oz",0,,false,false,each,,0,,
+"Disposable, Stirrer Wooden 5-1/2in Flat",0,,false,false,each,,0,,
+"Cleaning Supplies, Multi Temp Dish Detergent",0,,false,false,each,,0,,
+"Cleaning Supplies, Rinse Aid",0,,false,false,liter,,0,,
+"Dry Goods, Graham Cracker Crumbs Keebler",0,,false,false,lb,,0,,
+"Dry Goods, Rader Vanilla Extract",0,,false,false,lb,,0,,
+"Dairy, Danish Blue",0,,false,false,each,,0,,
+"Dry Goods, Syrup Vanilla Monin",0,,false,false,liter,,0,,
+"Vodka, Three Olives",0,,false,true,each,,0,,
+"NA Bev, Orange Juice",0,,true,false,liter,,0,,
+"NA Bev, Apple Juice",0,,true,false,liter,,0,,
+"Dry Goods, Chili Flakes",0,,true,false,lb,,0,,
+"Protein, Pancetta",0,,true,false,lb,,0,,
+"Dry Goods, Cooking Red Wine",0,,true,false,liter,,0,,
+"Produce, Spicy Chili Peppers",0,,true,false,lb,,0,,
+"NA Bev, Lime Juice",0,,true,false,liter,,0,,
+"Dry Goods, Bindi Custard Cream",0,,true,false,lb,,0,,
+"Dry Goods, Cacao Powder",0,,true,false,lb,,0,,
+"Dry Goods, Coffee Ground",0,,true,false,lb,,0,,
+"NA Bev, Tap Water",0,,true,false,liter,,0,,
+"Dry Goods, Pistachio Tritato",0,,false,false,lb,,0,,
+"Cleaning Supplies, VB Sponge Scrubbing MED Duty",0,,false,false,each,,0,,
+"Dry Goods, Sweet Blend Honey",0,,false,false,lb,,0,,
+"Clean Supplies, Dish Machine 10%",0,,false,false,each,,0,,
+"Wine White, Sparkling Wine",0,,false,false,each,,0,,
+"Dry Goods, Pistachio Paste",0,,false,false,lb,,0,,
+"Dry Goods, Olea Oil",0,,false,true,liter,,0,,
+"NA Bev, Italian Soda",0,,false,false,each,,0,,
+"Rum, Golden Barcelo",0,,false,false,each,,0,,
+"Rum, Golden Bacardi",0,,false,false,each,,0,,
+"Dry Goods, Genovese Pesto",0,,true,false,lb,,0,,
+"Liqueur, Fernet Branca",0,,false,false,each,,0,,
+"Dry Goods, Rasberry Jam Seedless",0,,false,false,each,,0,,
+"Baked Goods, Facitura Di Lampone",0,,false,false,lb,,0,,
+"Wine Red, La Vis Cabernet Sauvignon Trentino",0,,true,false,each,,0,,
+"Liqueur, Lomoncello 60",0,,false,false,liter,,0,,
+"Whiskey, Bourbon",0,,false,false,each,,0,,
+"Whiskey, DELETE NO BRAND NAME",0,,false,false,each,,0,,
+"Cleaning Supplies,  Sponge Yellow/Green",0,,false,false,each,,0,,
+"Wine Red, Casa Mirafiora Nebbiolo",0,,false,false,each,,0,,
+"Wine White, Chardonnay La Vis Trentino",0,,false,false,each,,0,,
+"Wine Red, Nero D'Avola Lamura",0,,false,false,each,,0,,
+"Wine White, Prosecco Brut La Gioiosa",0,,false,false,each,,0,,
+"Wine Rose, Sparkling Rose",0,,false,true,each,,0,,
+"Wine Red, Villa Sparina Barbera Del Mon Ferrato",0,,true,false,each,,0,,
+"Wine Red, Villa Sparina Gavi",0,,false,false,each,,0,,
+"Dry Goods, Ghiraradelli Hot Cocoa Packet",0,,false,false,each,,0,,
+"Produce, Zucchini",0,,false,false,each,,0,,
+"Cleaning Supplies, VB Solid Silveroak",0,,false,false,each,,0,,
+"Disposable, VB Box Fold Top TAKE-OUT 45 OZ",0,,false,false,lb,,0,,
+"Cleaning Supplies, VB Dinner Napkin 15X17 2PLY",0,,false,false,each,,0,,
+"Disposable, Sandwich Bag Nutural 6X2X9",0,,false,false,each,,0,,
+"Cleaning Supplies, VB Food Service Sanitizer",0,,false,false,each,,0,,
+"Dry Goods, Kleenex Cleanser Soap Foam 1L",0,,false,false,liter,,0,,
+"Disposable, Freshener 3000 Metered Air",0,,false,false,each,,0,,
+"NA Bev, Coca Cola",0,,false,false,each,,0,,
+"Disposable, Pan Liner 25LB",0,,false,false,each,,0,,
+"Cleaning Supplies, SUPP 2/CT #32 Oxyorange Multi-Surface Cleaner",0,,false,false,each,,0,,
+"Disposables, Paper It Logo Large Bag",0,,false,false,each,,0,,
+"Protein, SeafoodTuna Steak",0,,false,false,each,,0,,
+lincoln test,0,,false,false,lb,,0,,
+test,0,,false,false,lb,,0,,
+"Disposable, Paper Soup Container 12oz",0,,false,false,each,,0,,
+"Dry Goods, Semola Rimacinata",0,,false,true,each,,0,,
+"Baked Goods, Bindi Cookies Choc Bacio Di Dama",0,,false,true,each,,0,,
+"Produce, Pineapple Pint",0,,false,false,lb,,0,,
+"Soda, San Pellegrino Can",0,,false,false,liter,,0,,
+"Beer, Draft Lagunitas 1",0,,false,false,liter,,0,,
+"Dry Goods, Syrup Caramel Monin",0,,false,false,liter,,0,,
+"Rum, Captain Morgan",0,,true,false,liter,,0,,
+"NA Bev, Tea Box 6-Unit",0,,false,false,each,,0,,
+"NA Bev, The Pesca",0,,true,false,each,,0,,
+"Protein, Mortadella Pistachio Perrarini",0,,false,false,lb,,0,,
+"Protein, Mortadella Pistachio Martelli",0,,false,false,lb,,0,,
+"Dry Goods, Pistachio Nut",0,,true,true,lb,,0,,
+"Disposable, Coffee Lid for 12oz Hot Cup",0,,false,false,lb,,0,,
+"Produce, Romaine Hearts",0,,false,true,each,,0,,
+"Produce, Red Cabbage DUPE",0,,true,true,each,,0,,
+"Dry Goods, Tomato Paste Isabella",0,,false,false,lb,,0,,
+"Produce, Arugula",0,,true,false,each,,0,,
+"Produce, Lettuce Baby Arugula",0,,true,true,lb,,0,,
+"Produce, Eggplant by LB",0,,false,false,lb,,0,,
+"Produce, Cherry Tomato Pint",0,,false,true,lb,,0,,
+supplies,0,,false,false,lb,,0,,
+"Dairy, Elfroy custard bulk",0,,false,false,each,,0,,
+"Dry Goods, Test Item",0,,false,false,liter,,0,,
